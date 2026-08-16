@@ -1,4 +1,4 @@
-# 🧹 Comprehensive Employee Data Cleaning & Preprocessing Analysis
+#  Comprehensive Employee Data Cleaning & Preprocessing Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Cleaning-150458.svg)
@@ -8,18 +8,18 @@
 
 ---
 
-## 📌 1. Latar Belakang & Tujuan Proyek
+##  1. Latar Belakang & Tujuan Proyek
 
 Proyek ini berfokus pada **Data Cleaning & Preprocessing** untuk dataset karyawan (*Employee Dataset*). Data mentah (*raw data*) yang dikumpulkan dari sistem HR sering kali mengandung kebocoran data, pencatatan ganda, inkonsistensi input manual, serta nilai-nilai ekstrem yang tidak rasional. Jika langsung digunakan untuk analisis atau algoritma *Machine Learning*, data berkualitas rendah ini akan menghasilkan keputusan bisnis yang bias.
 
-### 🎯 Tujuan Utama Proyek:
+###  Tujuan Utama Proyek:
 1. **Pembersihan Struktur Data:** Mengidentifikasi dan menghapus data duplikat serta menstandardisasi format teks/kategorikal.
 2. **Deteksi & Handling Outlier:** Menggunakan pendekatan statistik rasional tanpa menghilangkan informasi sebaran data alami.
 3. **Imputasi Data Kosong:** Mengatasi *missing values* berdasarkan sifat dan distribusi tiap fitur.
 4. **Transformasi Fitur (Encoding):** Mengubah data tekstual/kategorikal menjadi bentuk biner dan matriks numerik yang siap diproses oleh model.
 
 
-## 📁 2. Struktur Repositori & File
+##  2. Struktur Repositori & File
 
 ```text
 .
@@ -30,13 +30,13 @@ Proyek ini berfokus pada **Data Cleaning & Preprocessing** untuk dataset karyawa
 ```
 ---
 
-## 📊 3. Kamus Data & Variabel Awal
+##  3. Kamus Data & Variabel Awal
 
 Dataset awal berisi **1.248 baris dan 14 kolom** (kombinasi variabel kategorikal dan numerik seperti `employee_id`, `department`, `education_level`, `age`, `monthly_salary`, dll).
 
 ---
 
-## 🔬 4. Metodologi & Preprocessing
+##  4. Metodologi & Preprocessing
 
 * **Task 1 — EDA & Text Standardization:** Menghapus 43 data duplikat (`df.drop_duplicates()`) serta merapikan format teks pada kolom `department` (`it` -> `IT`) dan `city` (`jakarta` -> `Jakarta`).
 * **Task 2 — Outlier Handling:** Mendeteksi 32 data ekstrem di kolom `age`, `monthly_salary`, `training_hours`, dan `overtime_hours` menggunakan batas IQR, lalu dipangkas rasional (*Capping / Winsorization*).
@@ -45,7 +45,7 @@ Dataset awal berisi **1.248 baris dan 14 kolom** (kombinasi variabel kategorikal
 
 ---
 
-## 📈 5. Summary (Before vs After)
+##  5. Summary (Before vs After)
 
 * **Total Baris:** Dari 1.248 baris -> **1.205 baris unik** (bersih dari duplikat).
 * **Missing Values:** Dari ~8% data kosong -> **0%** (terisi sempurna).
