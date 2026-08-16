@@ -1,0 +1,1249 @@
+employee_id,department,job_role,education_level,work_mode,city,age,years_experience,monthly_salary,training_hours,projects_completed,overtime_hours,satisfaction_score,performance_category
+EMP00001,IT,Sales Executive,High School,Hybrid,Surabaya,23,28,19537826.0,17.0,19,22,2.6,Low
+EMP00002,IT,Software Engineer,Bachelor,Hybrid,Jakarta,30,32,14951456.0,25.0,19,14,1.2,Low
+EMP00003,Sales,Product Manager,Bachelor,Remote,Bandung,53,16,20549508.0,49.0,3,2,1.3,Low
+EMP00004,IT,Software Engineer,High School,Remote,Yogyakarta,23,20,11822392.0,61.0,16,7,3.9,Low
+EMP00005,IT,Product Manager,Master,Onsite,Jakarta,49,33,,27.0,2,33,5.0,Low
+EMP00006,Operations,Business Analyst,Diploma,Onsite,Surabaya,24,5,,75.0,2,10,1.6,Medium
+EMP00007,it,HR Officer,Bachelor,Hybrid,Jakarta,39,15,24225579.0,27.0,12,30,3.0,Medium
+EMP00008,Marketing,Finance Analyst,Master,Onsite,Semarang,47,16,29371590.0,14.0,7,11,4.7,High
+EMP00009,HR,Customer Success,Bachelor,Onsite,Yogyakarta,22,25,20116244.0,56.0,17,12,4.3,High
+EMP00010,HR,Software Engineer,Master,Remote,Medan,22,27,17711857.0,3.0,3,11,2.1,Medium
+EMP00011,Marketing,Finance Analyst,High School,Remote,Bandung,55,3,,3.0,19,30,4.4,High
+EMP00012,IT,HR Officer,Bachelor,Onsite,Surabaya,44,14,7079187.0,70.0,12,27,1.8,Medium
+EMP00013,HR,Software Engineer,High School,Remote,Yogyakarta,31,1,7165551.0,16.0,5,22,2.1,Medium
+EMP00014,HR,Product Manager,High School,Onsite,Semarang,46,0,20115683.0,29.0,1,19,2.5,Low
+EMP00015,Operations,Product Manager,High School,Hybrid,Bandung,28,29,6951206.0,60.0,1,12,2.5,Medium
+EMP00016,HR,Finance Analyst,High School,Remote,Surabaya,28,24,22758150.0,13.0,12,20,1.2,Medium
+EMP00017,Operations,Marketing Specialist,Master,Onsite,Bandung,53,24,7910970.0,63.0,13,13,3.7,High
+EMP00018,Finance,Software Engineer,Master,Onsite,Jakarta,27,1,13557766.0,40.0,10,12,4.4,Low
+EMP00019,Finance,Marketing Specialist,High School,Hybrid,Surabaya,28,13,23416379.0,1.0,9,14,2.7,High
+EMP00020,Marketing,Software Engineer,Master,Onsite, jakarta ,54,3,28601169.0,69.0,1,37,,High
+EMP00021,IT,Finance Analyst,Bachelor,Remote,Jakarta,56,18,21067035.0,46.0,9,17,3.3,Low
+EMP00022,Finance,Data Analyst,Master,Onsite,Semarang,32,26,13562780.0,,10,3,3.9,High
+EMP00023,Operations,Software Engineer,,Hybrid,Surabaya,44,25,29330681.0,3.0,3,14,1.0,Medium
+EMP00024,IT,Finance Analyst,Bachelor,Hybrid,Surabaya,44,23,22668996.0,69.0,16,9,1.2,Low
+EMP00025,Operations,Business Analyst,Master,Onsite,Medan,54,5,26998204.0,9.0,15,28,3.8,High
+EMP00026,Sales,Product Manager,Diploma,Remote,Jakarta,57,3,13054704.0,3.0,2,37,5.0,High
+EMP00027,IT,Finance Analyst,Master,Remote,Surabaya,42,25,16483537.0,58.0,2,10,3.8,Low
+EMP00028,Operations,Sales Executive,Master,Hybrid,Bandung,53,25,8068259.0,67.0,19,1,3.3,High
+EMP00029,Marketing,Finance Analyst,High School,Remote,Bandung,56,33,24525287.0,38.0,5,9,,High
+EMP00030,Finance,Software Engineer,,Remote,Bandung,25,23,16510504.0,21.0,18,36,4.4,Medium
+EMP00031,Operations,Data Analyst,Bachelor,Hybrid,Medan,56,19,20554897.0,61.0,8,14,2.7,High
+EMP00032,Operations,HR Officer,,Hybrid,Jakarta,49,16,20259886.0,,15,16,4.4,Low
+EMP00033,HR,Product Manager,Diploma,Hybrid,Semarang,41,26,22396597.0,4.0,0,39,2.1,Low
+EMP00034,HR,Product Manager,Diploma,Remote,Surabaya,39,26,18262243.0,,6,1,4.0,Low
+EMP00035,Marketing,Finance Analyst,Diploma,Onsite,Surabaya,38,22,25444670.0,53.0,10,0,3.4,Medium
+EMP00036,Finance,Data Analyst,High School,Onsite,Semarang,40,30,20053383.0,39.0,19,14,3.6,Low
+EMP00037,IT,Marketing Specialist,Bachelor,Remote,Bandung,58,1,18901957.0,35.0,13,25,4.2,Low
+EMP00038,HR,Product Manager,High School,Hybrid,Semarang,50,6,24171770.0,29.0,17,21,2.3,High
+EMP00039,Sales,Finance Analyst,Diploma,Hybrid,Yogyakarta,37,30,23795532.0,16.0,6,34,4.7,High
+EMP00040,Finance,Data Analyst,Bachelor,Remote,Semarang,58,14,28016049.0,0.0,0,2,3.0,Medium
+EMP00041,Marketing,Software Engineer,Diploma,Remote,Bandung,35,17,21642597.0,19.0,6,36,1.2,High
+EMP00042,Operations,Data Analyst,Master,Hybrid,Medan,34,14,5300998.0,51.0,1,3,1.0,High
+EMP00043,IT,Data Analyst,Bachelor,Hybrid,Surabaya,34,30,5796837.0,52.0,19,2,3.1,High
+EMP00044,Finance,Product Manager,Bachelor,Onsite,Yogyakarta,53,14,9477442.0,32.0,18,32,,Medium
+EMP00045,Sales,Business Analyst,,Onsite,Yogyakarta,95,27,11678351.0,78.0,15,21,2.1,Medium
+EMP00046,it,Sales Executive,Diploma,Remote,Yogyakarta,41,31,26254214.0,,13,24,2.3,Medium
+EMP00047,IT,Sales Executive,High School,Hybrid,Semarang,22,16,,1.0,7,37,2.6,High
+EMP00048,Marketing,Data Analyst,Master,Onsite,Semarang,57,20,22412933.0,14.0,0,25,2.7,Medium
+EMP00049,Marketing,Data Engineer,Master,Remote,Medan,42,28,14206792.0,40.0,14,39,,Medium
+EMP00050,Sales,HR Officer,Bachelor,Hybrid,Semarang,33,2,24307743.0,32.0,0,12,,High
+EMP00051,Marketing,Marketing Specialist,Master,Remote,Semarang,24,5,5327090.0,66.0,7,19,3.6,Medium
+EMP00052,Marketing,Data Analyst,Diploma,Onsite,Jakarta,50,9,,,14,2,2.1,Medium
+EMP00053,Operations,HR Officer,Diploma,Hybrid,Semarang,29,18,18356967.0,26.0,9,27,3.6,Low
+EMP00054,it,Finance Analyst,Diploma,Hybrid,Surabaya,28,7,,20.0,13,12,3.6,Low
+EMP00055,HR,Data Analyst,Master,Remote,Semarang,36,8,11684058.0,2.0,3,39,1.0,Medium
+EMP00056,Operations,Customer Success,,Hybrid,Medan,21,13,28965895.0,70.0,6,15,2.6,Medium
+EMP00057,Sales,Data Engineer,Bachelor,Hybrid,Bandung,53,20,,51.0,9,8,4.2,Medium
+EMP00058,Marketing,Software Engineer,High School,Remote,Jakarta,51,20,29980503.0,,15,20,2.6,Medium
+EMP00059,Operations,Business Analyst,Diploma,Onsite,Surabaya,46,6,26678055.0,55.0,15,7,2.1,High
+EMP00060,Sales,Finance Analyst,,Hybrid,Yogyakarta,31,7,,16.0,7,29,3.8,Medium
+EMP00061,Sales,Sales Executive,High School,Onsite,Yogyakarta,36,3,17221489.0,33.0,7,34,4.0,High
+EMP00062,HR,Finance Analyst,Bachelor,Onsite,Semarang,47,7,10882792.0,41.0,15,4,,Low
+EMP00063,Operations,Software Engineer,Master,Hybrid,Jakarta,30,14,26691284.0,33.0,8,25,3.8,Low
+EMP00064,HR,Software Engineer,Master,Remote,Surabaya,38,0,16116310.0,32.0,14,30,4.0,Low
+EMP00065,Finance,Business Analyst,Diploma,Onsite,Bandung,43,15,26856316.0,26.0,4,37,4.5,Low
+EMP00066,Sales,Marketing Specialist,High School,Hybrid, jakarta ,34,6,7457243.0,2.0,18,20,2.7,Low
+EMP00067,Finance,Product Manager,High School,Onsite,Bandung,40,2,18039066.0,32.0,15,38,,High
+EMP00068,Finance,Sales Executive,Diploma,Hybrid,Jakarta,29,22,22614358.0,64.0,12,25,4.0,Medium
+EMP00069,Operations,Product Manager,Diploma,Remote,Jakarta,29,16,20909445.0,45.0,6,6,2.8,High
+EMP00070,Marketing,Business Analyst,Master,Onsite,Yogyakarta,57,4,18761696.0,9.0,16,39,1.3,Low
+EMP00071,HR,Software Engineer,,Remote,Bandung,42,20,11252910.0,55.0,18,35,2.6,Medium
+EMP00072,it,HR Officer,High School,Hybrid,Bandung,41,34,7029261.0,22.0,9,23,1.8,Medium
+EMP00073,Operations,Data Engineer,Diploma,Onsite,Yogyakarta,25,29,11825670.0,5.0,7,25,1.6,Medium
+EMP00074,HR,Customer Success,High School,Hybrid,Semarang,56,25,11253923.0,40.0,3,12,3.7,Medium
+EMP00075,Marketing,Product Manager,Diploma,Hybrid,Jakarta,51,21,17522919.0,63.0,1,22,2.1,Low
+EMP00076,HR,Data Engineer,Bachelor,Remote,Jakarta,57,0,7978170.0,19.0,14,24,4.4,High
+EMP00077,Sales,Software Engineer,Diploma,Hybrid,Bandung,50,19,21132040.0,2.0,3,5,4.7,Medium
+EMP00078,Sales,Data Analyst,Diploma,Onsite,Surabaya,21,18,19879013.0,27.0,14,220,1.4,Low
+EMP00079,IT,Business Analyst,Diploma,Hybrid,Yogyakarta,30,23,11565337.0,71.0,4,12,3.6,Low
+EMP00080,Operations,Software Engineer,High School,Onsite,Bandung,45,22,17640488.0,2.0,7,38,2.6,Low
+EMP00081,Finance,Data Engineer,Diploma,Remote,Jakarta,42,10,21311958.0,48.0,15,27,2.6,Medium
+EMP00082,Finance,Marketing Specialist,Diploma,Onsite,Yogyakarta,49,5,19204656.0,,16,27,2.4,Medium
+EMP00083,Operations,Business Analyst,High School,Remote,Jakarta,24,23,8438209.0,63.0,14,14,,Medium
+EMP00084,Marketing,Software Engineer,Bachelor,Onsite,Jakarta,28,15,24764325.0,33.0,5,38,2.1,Low
+EMP00085,HR,Data Engineer,,Onsite,Surabaya,43,20,17044642.0,28.0,2,1,1.0,Low
+EMP00086,Sales,Finance Analyst,High School,Remote,Medan,52,17,22329505.0,29.0,11,22,4.7,High
+EMP00087,Marketing,Software Engineer,Bachelor,Hybrid,Medan,40,22,26899815.0,63.0,7,13,4.0,Low
+EMP00088,Finance,Data Analyst,Bachelor,Hybrid,Surabaya,34,1,23556281.0,,18,35,4.1,High
+EMP00089,IT,Product Manager,High School,Remote,Surabaya,52,31,20042586.0,14.0,16,3,2.2,Low
+EMP00090,Finance,Business Analyst,Bachelor,Hybrid,Jakarta,45,14,26278459.0,11.0,6,35,3.7,High
+EMP00091,HR,Finance Analyst,Diploma,Hybrid,Medan,51,20,7447419.0,74.0,15,13,2.0,High
+EMP00092,IT,Marketing Specialist,Diploma,Remote,Surabaya,58,17,18211917.0,23.0,18,7,3.5,Medium
+EMP00093,Finance,Sales Executive,Diploma,Hybrid,Jakarta,54,27,24248215.0,17.0,1,2,4.5,Medium
+EMP00094,Operations,Data Analyst,,Onsite,Surabaya,25,18,10807179.0,16.0,10,27,1.5,Low
+EMP00095,IT,Business Analyst,High School,Hybrid,Jakarta,30,5,28447883.0,62.0,5,21,3.2,Low
+EMP00096,Marketing,Data Analyst,Bachelor,Hybrid,Bandung,24,24,7114592.0,0.0,14,16,1.2,Medium
+EMP00097,Finance,Data Engineer,Bachelor,Remote,Semarang,39,18,26793363.0,0.0,15,23,4.4,Low
+EMP00098,Operations,Finance Analyst,High School,Hybrid,Surabaya,44,32,,57.0,14,0,1.1,High
+EMP00099,Operations,Sales Executive,Master,Onsite,Jakarta,55,29,8312345.0,10.0,1,9,1.6,Low
+EMP00100,IT,Customer Success,High School,Hybrid,Yogyakarta,42,8,6367094.0,58.0,17,19,,Medium
+EMP00101,Operations,Business Analyst,Diploma,Hybrid,Jakarta,36,34,8809847.0,54.0,15,2,4.2,Medium
+EMP00102,Sales,Marketing Specialist,,Hybrid,Bandung,34,25,25671303.0,59.0,12,19,2.0,Low
+EMP00103,Sales,Finance Analyst,Bachelor,Hybrid,Bandung,40,32,,45.0,4,29,2.8,Medium
+EMP00104,Marketing,Data Engineer,High School,Onsite,Semarang,44,13,22632675.0,25.0,12,39,1.0,Medium
+EMP00105,Marketing,Customer Success,High School,Remote,Medan,54,13,12321556.0,42.0,16,18,4.1,High
+EMP00106,Operations,Marketing Specialist,Bachelor,Hybrid,Semarang,50,32,5778859.0,61.0,8,12,1.7,High
+EMP00107,Operations,Product Manager,High School,Remote,Bandung,39,30,19140977.0,41.0,6,16,4.8,Medium
+EMP00108,Marketing,Marketing Specialist,,Onsite,Yogyakarta,26,18,24564758.0,39.0,12,5,4.7,Low
+EMP00109,Finance,Data Engineer,Diploma,Onsite,Medan,41,13,5400280.0,16.0,18,34,3.7,Low
+EMP00110,HR,Marketing Specialist,High School,Hybrid,Semarang,48,1,17628513.0,64.0,14,2,2.8,Low
+EMP00111,Finance,Customer Success,Master,Remote,Semarang,42,3,20777891.0,11.0,4,6,4.8,Medium
+EMP00112,IT,Marketing Specialist,High School,Hybrid,Jakarta,47,24,10869072.0,27.0,16,28,2.8,High
+EMP00113,Marketing,Data Analyst,Diploma,Remote,Jakarta,37,15,17357128.0,49.0,6,36,1.7,Low
+EMP00114,Operations,Finance Analyst,High School,Remote,Jakarta,26,3,22481609.0,7.0,16,6,,Medium
+EMP00115,Operations,HR Officer,Master,Hybrid,Medan,22,19,18518750.0,29.0,15,24,1.4,Low
+EMP00116,Operations,Software Engineer,Master,Remote,Medan,37,8,18763671.0,,13,11,2.4,Low
+EMP00117,IT,Data Analyst,Diploma,Onsite,Medan,37,28,17721720.0,35.0,2,3,1.3,High
+EMP00118,Sales,Customer Success,Bachelor,Hybrid,Semarang,95,21,13462852.0,48.0,0,19,1.8,Medium
+EMP00119,Operations,Sales Executive,Bachelor,Hybrid,Bandung,57,11,8000337.0,44.0,18,4,5.0,High
+EMP00120,HR,Finance Analyst,High School,Onsite,Semarang,29,1,21116049.0,55.0,2,24,4.6,High
+EMP00121,Operations,Business Analyst,High School,Hybrid,Medan,40,3,25257652.0,31.0,19,19,2.5,Low
+EMP00122,Operations,Finance Analyst,Master,Onsite,Surabaya,35,17,23923206.0,66.0,7,28,1.8,Medium
+EMP00123,Finance,Product Manager,Bachelor,Remote,Semarang,41,1,6727777.0,20.0,15,32,3.3,High
+EMP00124,Operations,Product Manager,Diploma,Onsite,Jakarta,27,14,5123336.0,29.0,11,16,2.0,Medium
+EMP00125,IT,Customer Success,High School,Hybrid,Surabaya,59,20,,36.0,16,16,2.8,Medium
+EMP00126,Operations,Business Analyst,High School,Remote,Semarang,30,0,5458953.0,24.0,15,37,2.3,Low
+EMP00127,Sales,Customer Success,Master,Onsite,Semarang,45,12,25475242.0,79.0,17,19,4.1,High
+EMP00128,Operations,Data Engineer,Master,Remote,Bandung,28,30,19496987.0,61.0,1,36,4.6,High
+EMP00129,HR,HR Officer,Bachelor,Hybrid,Semarang,40,4,10549146.0,36.0,0,31,1.6,High
+EMP00130,Finance,Sales Executive,Bachelor,Remote,Yogyakarta,43,16,,17.0,13,15,4.3,Low
+EMP00131,Sales,Data Engineer,High School,Remote,Semarang,59,2,15674748.0,18.0,15,27,2.5,High
+EMP00132,Sales,Product Manager,High School,Onsite,Bandung,35,8,29381329.0,19.0,3,25,2.8,High
+EMP00133,Sales,Software Engineer,Diploma,Remote,Bandung,26,2,150000000.0,48.0,19,29,1.5,High
+EMP00134,Operations,Business Analyst,Master,Remote,Medan,22,29,,26.0,11,22,2.3,Low
+EMP00135,Finance,Business Analyst,Bachelor,Hybrid,Medan,55,2,12432014.0,68.0,7,9,2.0,High
+EMP00136,Operations,HR Officer,Diploma,Onsite,Yogyakarta,23,1,15219701.0,56.0,5,29,,High
+EMP00137,Finance,Software Engineer,Bachelor,Onsite,Medan,35,20,22498195.0,12.0,10,3,3.1,Medium
+EMP00138,Finance,Data Engineer,Bachelor,Hybrid,Yogyakarta,34,11,15291255.0,13.0,18,17,3.8,Low
+EMP00139,IT,Data Analyst,Bachelor,Hybrid,Surabaya,32,2,29231652.0,53.0,8,28,2.9,Low
+EMP00140,Operations,Finance Analyst,,Remote,Semarang,42,0,26095307.0,67.0,2,5,1.8,High
+EMP00141,Marketing,Marketing Specialist,High School,Onsite,Bandung,23,2,5928631.0,8.0,17,32,4.2,High
+EMP00142,Finance,Marketing Specialist,Master,Hybrid,Medan,42,0,,69.0,4,17,2.1,Low
+EMP00143,Marketing,Business Analyst,Bachelor,Hybrid,Semarang,35,19,7879477.0,27.0,4,8,3.3,Medium
+EMP00144,Operations,Data Engineer,Bachelor,Onsite,Jakarta,27,8,11883360.0,64.0,7,33,2.0,Low
+EMP00145,HR,Business Analyst,High School,Remote,Yogyakarta,59,24,21400840.0,74.0,18,21,2.5,High
+EMP00146,Finance,Software Engineer,,Onsite,Bandung,45,20,27462154.0,19.0,11,38,,Low
+EMP00147,Marketing,Marketing Specialist,Bachelor,Remote,Yogyakarta,26,16,28457592.0,68.0,14,31,3.0,High
+EMP00148,Finance,Data Engineer,Master,Onsite,Surabaya,23,2,8670191.0,71.0,5,4,1.4,High
+EMP00149,Finance,Data Engineer,Diploma,Hybrid,Jakarta,37,4,8080026.0,24.0,13,7,4.6,High
+EMP00150,IT,Product Manager,Diploma,Onsite,Jakarta,35,34,,34.0,14,2,3.3,Low
+EMP00151,Finance,HR Officer,Master,Hybrid,Medan,56,25,5408073.0,29.0,9,35,4.6,Low
+EMP00152,Finance,Data Analyst,High School,Hybrid,Semarang,45,10,29984311.0,30.0,11,24,3.2,Medium
+EMP00153,Finance,Product Manager,,Hybrid,Jakarta,33,29,26426434.0,30.0,13,34,4.4,Medium
+EMP00154,HR,Business Analyst,High School,Onsite,Yogyakarta,33,29,23113674.0,10.0,3,21,2.1,Medium
+EMP00155,it,Product Manager,High School,Onsite,Surabaya,25,30,10628318.0,2.0,2,20,4.7,Medium
+EMP00156,Operations,Sales Executive,Diploma,Hybrid,Semarang,30,11,12269018.0,,14,25,,Medium
+EMP00157,Marketing,Marketing Specialist,High School,Remote,Yogyakarta,33,34,23265572.0,43.0,5,3,,Low
+EMP00158,Sales,Product Manager,Diploma,Remote,Yogyakarta,57,7,7588257.0,65.0,7,24,4.5,High
+EMP00159,Sales,Sales Executive,Diploma,Onsite,Yogyakarta,31,16,7208121.0,29.0,18,37,2.5,Medium
+EMP00160,Marketing,HR Officer,,Hybrid,Surabaya,30,33,23259190.0,24.0,13,24,1.1,Medium
+EMP00161,Operations,Sales Executive,High School,Remote,Yogyakarta,37,1,18432156.0,47.0,1,31,3.5,Medium
+EMP00162,IT,Customer Success,Bachelor,Hybrid,Semarang,47,26,8068521.0,22.0,11,5,2.7,High
+EMP00163,HR,Finance Analyst,,Onsite,Jakarta,57,24,26331731.0,,12,36,1.5,Low
+EMP00164,Operations,Software Engineer,Master,Remote,Semarang,41,30,12804112.0,32.0,16,1,4.5,Medium
+EMP00165,HR,Marketing Specialist,Bachelor,Onsite,Semarang,53,1,28170476.0,13.0,2,25,4.4,Low
+EMP00166,Operations,Software Engineer,High School,Remote,Yogyakarta,32,8,19839811.0,4.0,4,11,,High
+EMP00167,IT,Product Manager,Master,Remote,Medan,48,26,9356866.0,20.0,10,27,3.0,Low
+EMP00168,Sales,Product Manager,Diploma,Onsite,Surabaya,30,14,8744895.0,43.0,3,38,1.2,Medium
+EMP00169,Sales,Business Analyst,Master,Hybrid,Semarang,44,13,24272311.0,25.0,10,2,3.4,Low
+EMP00170,HR,Marketing Specialist,Bachelor,Onsite,Semarang,26,32,20581840.0,39.0,17,3,4.9,High
+EMP00171,IT,Sales Executive,Diploma,Remote,Yogyakarta,59,14,,40.0,0,27,4.3,Low
+EMP00172,Sales,Business Analyst,Bachelor,Remote,Medan,48,33,22903541.0,48.0,14,29,3.5,Low
+EMP00173,Marketing,Data Analyst,High School,Onsite,Jakarta,59,25,,0.0,7,33,2.8,Medium
+EMP00174,Sales,Data Engineer,Diploma,Hybrid,Yogyakarta,35,1,11587577.0,17.0,6,26,2.6,Low
+EMP00175,IT,Finance Analyst,High School,Remote,Medan,33,3,150000000.0,22.0,18,17,,Low
+EMP00176,Operations,Data Engineer,Master,Onsite,Bandung,34,12,7476015.0,49.0,19,12,,High
+EMP00177,Marketing,Business Analyst,Master,Onsite,Semarang,26,23,10669617.0,23.0,16,19,4.3,Medium
+EMP00178,Operations,Software Engineer,High School,Remote, jakarta ,120,7,16818169.0,33.0,14,4,,Medium
+EMP00179,Finance,Software Engineer,Diploma,Remote,Bandung,34,26,13698281.0,59.0,9,30,4.8,Low
+EMP00180,Sales,Sales Executive,Master,Remote,Bandung,34,23,10426018.0,14.0,19,27,2.2,High
+EMP00181,HR,Marketing Specialist,Diploma,Remote,Bandung,21,11,20099450.0,23.0,19,22,1.0,Low
+EMP00182,Finance,Data Engineer,High School,Hybrid,Medan,36,1,14607204.0,2.0,11,27,1.3,Low
+EMP00183,Operations,Data Analyst,Master,Remote,Medan,36,11,6102548.0,21.0,18,11,1.1,High
+EMP00184,Finance,Marketing Specialist,Diploma,Remote,Yogyakarta,43,34,,,1,36,5.0,High
+EMP00185,IT,Sales Executive,Bachelor,Remote,Surabaya,41,4,14916577.0,9.0,6,12,,Medium
+EMP00186,Sales,Business Analyst,Diploma,Onsite,Jakarta,23,20,14844937.0,2.0,14,9,,High
+EMP00187,Operations,Data Engineer,Master,Remote,Surabaya,36,23,10979347.0,29.0,12,0,5.0,Medium
+EMP00188,IT,Business Analyst,Master,Hybrid,Semarang,27,20,22272870.0,62.0,16,25,1.8,Low
+EMP00189,Finance,Finance Analyst,Bachelor,Onsite,Yogyakarta,51,6,26765216.0,72.0,1,35,3.5,High
+EMP00190,IT,Business Analyst,Bachelor,Hybrid,Bandung,25,21,15924237.0,59.0,8,5,4.5,Medium
+EMP00191,Operations,HR Officer,Bachelor,Onsite,Medan,57,1,9772410.0,36.0,11,18,1.5,Medium
+EMP00192,Finance,Product Manager,Bachelor,Onsite,Bandung,37,0,12011647.0,3.0,4,29,1.6,Medium
+EMP00193,Operations,Sales Executive,Bachelor,Remote,Semarang,49,20,5244184.0,2.0,10,38,3.9,Low
+EMP00194,IT,Data Analyst,Bachelor,Hybrid,Yogyakarta,57,20,5232303.0,77.0,6,30,,Medium
+EMP00195,Finance,Business Analyst,Diploma,Onsite,Bandung,37,23,,18.0,1,2,2.6,High
+EMP00196,Operations,Product Manager,Diploma,Remote,Yogyakarta,51,14,23612526.0,25.0,8,16,3.7,Low
+EMP00197,Operations,Finance Analyst,Diploma,Remote,Yogyakarta,32,21,7117676.0,10.0,15,12,1.1,Medium
+EMP00198,Finance,Business Analyst,Bachelor,Remote,Surabaya,45,18,16227008.0,77.0,1,4,4.7,Medium
+EMP00199,HR,Software Engineer,High School,Remote,Bandung,47,30,29994280.0,79.0,13,32,2.6,Medium
+EMP00200,Sales,Customer Success,Diploma,Onsite,Semarang,23,33,13765962.0,,6,23,3.1,Medium
+EMP00201,Finance,Customer Success,Bachelor,Remote,Jakarta,56,29,,58.0,6,0,4.3,High
+EMP00202,Finance,Product Manager,Master,Remote,Jakarta,27,16,28624956.0,19.0,5,2,2.0,Low
+EMP00203,IT,Sales Executive,Diploma,Hybrid,Bandung,40,30,20174152.0,60.0,8,29,2.9,Medium
+EMP00204,Sales,Business Analyst,Diploma,Remote,Bandung,43,27,9187757.0,69.0,19,14,1.0,Low
+EMP00205,Operations,Sales Executive,Master,Remote,Yogyakarta,47,34,16273876.0,58.0,7,11,2.8,Low
+EMP00206,Finance,Customer Success,Master,Hybrid,Medan,21,27,,60.0,17,37,1.6,High
+EMP00207,Marketing,Business Analyst,,Onsite,Medan,26,20,9445490.0,2.0,13,1,4.3,Medium
+EMP00208,Operations,Sales Executive,High School,Hybrid,Bandung,58,16,16169748.0,40.0,18,34,4.4,Medium
+EMP00209,Marketing,HR Officer,Master,Remote,Jakarta,23,19,17323952.0,21.0,10,28,4.7,Low
+EMP00210,Sales,Business Analyst,Master,Hybrid,Bandung,43,13,9445240.0,30.0,6,23,4.0,Low
+EMP00211,HR,HR Officer,High School,Remote,Semarang,54,15,16014541.0,13.0,17,2,4.2,Medium
+EMP00212,Sales,Marketing Specialist,Diploma,Onsite,Medan,31,26,21912348.0,10.0,1,11,1.9,Low
+EMP00213,IT,Finance Analyst,Master,Remote,Medan,44,23,16758432.0,17.0,7,20,3.4,Medium
+EMP00214,Marketing,Marketing Specialist,Bachelor,Hybrid,Medan,22,16,23778599.0,54.0,3,9,2.3,High
+EMP00215,Sales,Finance Analyst,Diploma,Onsite,Jakarta,34,25,8564298.0,30.0,10,35,,High
+EMP00216,Operations,Finance Analyst,Diploma,Remote,Surabaya,51,22,28783081.0,13.0,17,16,3.0,Medium
+EMP00217,Finance,Sales Executive,,Remote,Yogyakarta,39,11,18252514.0,14.0,3,21,4.8,Medium
+EMP00218,Sales,Marketing Specialist,Diploma,Onsite,Surabaya,34,5,11021533.0,66.0,8,14,3.4,High
+EMP00219,Sales,Product Manager,High School,Remote,Yogyakarta,52,11,7749535.0,78.0,17,7,4.2,Low
+EMP00220,Operations,Data Analyst,Bachelor,Remote,Semarang,26,32,23649300.0,23.0,7,13,4.9,Low
+EMP00221,Operations,Customer Success,Master,Remote,Medan,51,2,28203156.0,19.0,4,4,3.2,Medium
+EMP00222,Operations,Data Engineer,Diploma,Remote,Bandung,43,31,23955869.0,5.0,6,14,3.3,Medium
+EMP00223,Operations,Software Engineer,Diploma,Hybrid,Semarang,38,14,29252290.0,50.0,6,180,4.3,High
+EMP00224,Marketing,Marketing Specialist,Bachelor,Hybrid,Yogyakarta,26,29,17756813.0,50.0,4,22,3.9,High
+EMP00225,Operations,Sales Executive,Master,Hybrid,Semarang,24,4,16005131.0,78.0,0,25,1.7,High
+EMP00226,Marketing,Business Analyst,Master,Hybrid,Semarang,40,24,28372435.0,34.0,15,8,1.6,Low
+EMP00227,Operations,Business Analyst,Diploma,Remote,Yogyakarta,27,12,26690366.0,39.0,1,10,3.6,High
+EMP00228,IT,Product Manager,Master,Remote,Yogyakarta,36,18,16918856.0,28.0,8,1,3.5,High
+EMP00229,Sales,Marketing Specialist,Bachelor,Onsite,Bandung,27,20,,27.0,15,24,4.8,High
+EMP00230,Sales,Business Analyst,Diploma,Hybrid,Bandung,23,9,250000000.0,72.0,0,0,4.1,Medium
+EMP00231,Sales,Customer Success,Master,Hybrid,Medan,51,2,9943658.0,32.0,5,25,3.3,Low
+EMP00232,IT,Data Engineer,Diploma,Remote,Bandung,44,19,5424627.0,51.0,9,12,1.7,Low
+EMP00233,IT,HR Officer,Bachelor,Hybrid,Bandung,95,28,5491701.0,46.0,15,3,1.9,High
+EMP00234,Finance,Software Engineer,High School,Remote,Surabaya,50,10,,46.0,7,9,3.6,High
+EMP00235,Finance,Business Analyst,Master,Onsite,Surabaya,48,14,7294507.0,38.0,19,4,4.8,Low
+EMP00236,it,Finance Analyst,High School,Onsite,Yogyakarta,33,17,10333788.0,,17,16,2.3,High
+EMP00237,Marketing,HR Officer,High School,Onsite,Yogyakarta,56,5,28836181.0,15.0,4,9,2.0,Low
+EMP00238,HR,Data Analyst,Master,Onsite,Bandung,28,26,22383780.0,42.0,9,26,3.7,High
+EMP00239,IT,Business Analyst,Bachelor,Remote,Bandung,54,12,27595230.0,77.0,2,28,2.0,Medium
+EMP00240,Sales,Marketing Specialist,Diploma,Hybrid,Jakarta,33,11,23434261.0,5.0,6,29,4.2,Low
+EMP00241,IT,Finance Analyst,Diploma,Hybrid,Surabaya,21,26,8109873.0,48.0,11,11,4.4,High
+EMP00242,Sales,Business Analyst,Master,Remote,Yogyakarta,59,5,7714430.0,38.0,3,3,4.3,High
+EMP00243,Operations,Customer Success,Diploma,Onsite,Yogyakarta,37,21,6415320.0,35.0,9,37,4.5,Low
+EMP00244,Finance,Data Engineer,Bachelor,Remote,Jakarta,24,17,25886643.0,74.0,3,7,1.3,Low
+EMP00245,Finance,Customer Success,,Remote,Bandung,58,0,,,12,4,2.4,Low
+EMP00246,Sales,Marketing Specialist,,Onsite,Surabaya,22,22,10125200.0,29.0,8,9,3.4,High
+EMP00247,Marketing,Data Engineer,Diploma,Onsite,Jakarta,40,5,9938661.0,31.0,19,34,2.3,High
+EMP00248,Marketing,Product Manager,Bachelor,Onsite,Bandung,56,30,20714690.0,71.0,12,19,2.3,High
+EMP00249,Marketing,Data Analyst,High School,Remote,Medan,23,30,150000000.0,49.0,8,29,3.4,High
+EMP00250,Marketing,Data Engineer,Master,Onsite,Surabaya,38,18,10447437.0,65.0,12,10,2.8,Medium
+EMP00251,Finance,Customer Success,Diploma,Remote,Yogyakarta,48,20,18208780.0,38.0,1,38,,Medium
+EMP00252,IT,Data Engineer,High School,Onsite,Jakarta,39,4,11994022.0,23.0,6,35,3.8,Medium
+EMP00253,Finance,Marketing Specialist,High School,Remote,Medan,58,14,,0.0,3,29,1.2,High
+EMP00254,Sales,Product Manager,,Onsite,Medan,47,22,15629807.0,29.0,0,25,3.1,High
+EMP00255,Sales,Customer Success,Bachelor,Hybrid,Jakarta,38,28,12165116.0,72.0,8,19,,Medium
+EMP00256,IT,Data Engineer,Bachelor,Remote,Jakarta,48,22,27319121.0,72.0,18,25,3.9,Medium
+EMP00257,Finance,HR Officer,Bachelor,Onsite,Bandung,25,5,16560899.0,24.0,12,27,2.7,Medium
+EMP00258,Operations,Business Analyst,Bachelor,Remote,Medan,24,4,12035440.0,37.0,17,23,1.8,High
+EMP00259,Marketing,HR Officer,Bachelor,Onsite,Bandung,39,15,7455218.0,37.0,1,33,1.4,Low
+EMP00260,Operations,HR Officer,Bachelor,Onsite,Jakarta,45,3,12354148.0,41.0,17,10,,Medium
+EMP00261,Sales,HR Officer,Master,Onsite,Medan,30,16,26547472.0,69.0,3,0,4.2,Medium
+EMP00262,Marketing,Product Manager,Bachelor,Remote,Semarang,56,28,,48.0,4,30,4.0,High
+EMP00263,HR,Data Analyst,,Hybrid, jakarta ,29,25,16027919.0,30.0,8,21,5.0,Low
+EMP00264,Sales,HR Officer,Master,Onsite,Medan,43,4,,9.0,12,32,,Medium
+EMP00265,Operations,Data Engineer,Bachelor,Onsite,Bandung,55,33,14589249.0,23.0,17,9,3.4,Low
+EMP00266,IT,Customer Success,Bachelor,Hybrid,Bandung,22,4,18995768.0,77.0,10,27,4.6,Medium
+EMP00267,Operations,Software Engineer,Bachelor,Onsite,Bandung,39,12,6484752.0,58.0,13,18,1.2,High
+EMP00268,Operations,Data Analyst,Master,Hybrid,Yogyakarta,37,13,22686419.0,36.0,5,11,3.9,High
+EMP00269,IT,Sales Executive,Diploma,Hybrid,Yogyakarta,47,14,12648202.0,70.0,5,23,3.1,High
+EMP00270,HR,Marketing Specialist,Master,Onsite,Bandung,23,17,14094283.0,48.0,3,17,,Low
+EMP00271,Operations,Business Analyst,Bachelor,Onsite,Surabaya,35,22,10993688.0,13.0,2,22,3.8,Low
+EMP00272,Marketing,Data Engineer,Master,Hybrid,Bandung,57,5,18848998.0,60.0,7,10,3.2,Medium
+EMP00273,Operations,HR Officer,Diploma,Onsite,Surabaya,48,22,28729296.0,68.0,9,17,4.5,High
+EMP00274,HR,Data Analyst,Diploma,Hybrid,Yogyakarta,43,27,24727472.0,20.0,11,11,3.9,Low
+EMP00275,Marketing,Sales Executive,Bachelor,Onsite,Medan,59,23,23006552.0,72.0,14,22,1.4,Low
+EMP00276,Finance,Marketing Specialist,High School,Onsite,Surabaya,29,27,15234542.0,11.0,10,38,1.5,Medium
+EMP00277,Sales,Software Engineer,High School,Onsite,Yogyakarta,56,20,10860869.0,48.0,8,32,1.3,Low
+EMP00278,IT,Finance Analyst,Diploma,Onsite,Bandung,43,29,13463954.0,68.0,17,14,2.6,Low
+EMP00279,HR,Finance Analyst,,Onsite,Jakarta,55,33,23796020.0,15.0,15,34,2.0,Low
+EMP00280,Finance,HR Officer,Bachelor,Onsite,Medan,48,33,,43.0,16,7,3.8,Medium
+EMP00281,Finance,Data Engineer,High School,Remote, jakarta ,43,7,,,19,26,4.7,Medium
+EMP00282,Sales,Software Engineer,Bachelor,Remote,Semarang,25,17,18647898.0,31.0,19,0,3.2,High
+EMP00283,IT,Finance Analyst,Diploma,Onsite,Bandung,24,17,9675398.0,15.0,17,32,4.6,Medium
+EMP00284,Sales,HR Officer,,Hybrid,Bandung,56,17,7797142.0,10.0,4,5,3.9,Medium
+EMP00285,HR,HR Officer,,Remote,Surabaya,53,30,10379809.0,10.0,9,5,4.2,Low
+EMP00286,IT,Marketing Specialist,Master,Remote,Surabaya,33,4,13066218.0,1.0,6,1,3.8,Low
+EMP00287,Sales,Product Manager,High School,Onsite,Surabaya,31,34,10592749.0,,6,10,1.7,Medium
+EMP00288,Operations,Software Engineer,High School,Remote,Semarang,28,26,6940907.0,26.0,13,6,4.9,Medium
+EMP00289,Finance,Marketing Specialist,Diploma,Hybrid,Jakarta,23,5,12802495.0,58.0,17,0,4.8,High
+EMP00290,HR,Customer Success,Master,Hybrid,Jakarta,41,1,27889318.0,72.0,10,39,,High
+EMP00291,Sales,Marketing Specialist,High School,Onsite,Semarang,51,0,,18.0,15,7,3.9,High
+EMP00292,HR,Marketing Specialist,Diploma,Hybrid,Yogyakarta,31,18,20275520.0,0.0,18,11,,Medium
+EMP00293,Operations,Business Analyst,High School,Onsite,Surabaya,33,20,22144889.0,0.0,15,11,4.3,High
+EMP00294,Marketing,Software Engineer,High School,Onsite,Surabaya,52,16,5859375.0,36.0,11,39,4.7,High
+EMP00295,Finance,Software Engineer,Bachelor,Remote,Surabaya,50,28,24773502.0,31.0,0,5,2.2,Medium
+EMP00296,Finance,Software Engineer,,Remote,Bandung,24,30,22178162.0,14.0,0,19,3.7,Low
+EMP00297,Finance,Data Engineer,Bachelor,Onsite,Medan,59,9,,24.0,15,20,4.4,Low
+EMP00298,Operations,Data Analyst,Master,Onsite,Semarang,47,29,17785034.0,24.0,18,29,2.3,High
+EMP00299,IT,Marketing Specialist,Bachelor,Remote,Surabaya,50,12,29915060.0,43.0,5,31,4.3,High
+EMP00300,Marketing,Customer Success,Diploma,Hybrid,Semarang,59,19,16223183.0,55.0,6,2,4.3,Low
+EMP00301,HR,HR Officer,High School,Hybrid,Surabaya,48,31,6761915.0,39.0,3,38,,Medium
+EMP00302,Finance,Data Analyst,High School,Remote,Jakarta,39,4,7912605.0,3.0,14,30,,Medium
+EMP00303,Operations,Data Engineer,Bachelor,Onsite,Semarang,43,28,9916957.0,62.0,10,23,2.1,Low
+EMP00304,it,Finance Analyst,Master,Remote,Jakarta,50,22,15490196.0,56.0,0,39,1.1,Low
+EMP00305,Marketing,Sales Executive,,Remote,Yogyakarta,51,29,8893034.0,49.0,17,24,1.5,Medium
+EMP00306,HR,Business Analyst,,Onsite,Semarang,45,34,13240945.0,34.0,14,16,2.1,Medium
+EMP00307,Finance,Marketing Specialist,High School,Onsite,Surabaya,31,11,5930327.0,26.0,5,4,1.9,Medium
+EMP00308,HR,HR Officer,High School,Hybrid,Surabaya,29,30,16607503.0,36.0,18,23,1.9,High
+EMP00309,Operations,Data Analyst,Diploma,Hybrid,Bandung,31,24,14043222.0,33.0,14,2,3.4,High
+EMP00310,Marketing,Product Manager,Bachelor,Hybrid,Semarang,46,3,9427751.0,58.0,13,34,2.5,Medium
+EMP00311,HR,Data Analyst,,Remote,Medan,43,24,11384076.0,50.0,16,9,4.5,High
+EMP00312,HR,Business Analyst,Bachelor,Hybrid,Bandung,33,2,22027474.0,53.0,17,37,4.8,High
+EMP00313,Operations,Product Manager,Diploma,Hybrid,Surabaya,40,12,11365692.0,11.0,6,1,,High
+EMP00314,HR,Finance Analyst,Diploma,Hybrid,Medan,58,8,17156399.0,74.0,4,16,1.7,Medium
+EMP00315,HR,Product Manager,Master,Remote,Surabaya,59,26,6021951.0,50.0,6,13,4.9,Medium
+EMP00316,Finance,Data Analyst,High School,Hybrid,Semarang,26,29,16152462.0,74.0,0,31,3.2,Low
+EMP00317,HR,Sales Executive,Master,Onsite,Surabaya,59,20,14701880.0,24.0,17,25,3.3,Medium
+EMP00318,IT,Data Engineer,Diploma,Hybrid,Surabaya,55,12,17814633.0,2.0,0,1,2.2,Low
+EMP00319,Operations,Product Manager,High School,Remote,Medan,24,28,19460918.0,,1,15,4.1,Low
+EMP00320,Marketing,Data Engineer,Master,Onsite,Medan,59,30,15826472.0,32.0,18,13,3.4,High
+EMP00321,Finance,Data Analyst,Master,Remote,Bandung,38,34,12597835.0,74.0,4,7,3.6,High
+EMP00322,Sales,Data Analyst,Diploma,Remote,Bandung,33,8,10483817.0,35.0,8,25,2.4,Low
+EMP00323,IT,Data Analyst,Diploma,Onsite,Bandung,40,27,21388600.0,0.0,13,10,3.1,Medium
+EMP00324,IT,Finance Analyst,Diploma,Hybrid,Yogyakarta,38,20,23812341.0,60.0,4,4,2.9,Medium
+EMP00325,Sales,Product Manager,High School,Onsite,Yogyakarta,55,8,19446986.0,3.0,7,36,4.6,Low
+EMP00326,HR,Data Engineer,Bachelor,Remote,Jakarta,34,1,,5.0,11,15,1.1,High
+EMP00327,HR,Data Engineer,High School,Remote,Medan,25,19,29567307.0,,19,20,3.2,High
+EMP00328,IT,Product Manager,Diploma,Remote,Medan,23,19,29117999.0,61.0,0,36,1.7,Medium
+EMP00329,HR,Software Engineer,Master,Onsite,Jakarta,37,14,7846412.0,49.0,11,23,1.0,Low
+EMP00330,IT,Business Analyst,High School,Hybrid,Bandung,43,11,,,8,9,3.4,Low
+EMP00331,HR,Data Engineer,Bachelor,Remote,Jakarta,53,28,28145612.0,27.0,4,16,1.0,Medium
+EMP00332,Finance,Finance Analyst,Master,Hybrid,Surabaya,24,27,29658037.0,53.0,15,38,3.5,Low
+EMP00333,Sales,Software Engineer,Master,Remote,Bandung,40,31,5050173.0,45.0,2,33,2.6,Low
+EMP00334,HR,Software Engineer,Bachelor,Remote,Bandung,37,29,28669787.0,12.0,10,17,3.4,Medium
+EMP00335,Marketing,Product Manager,Diploma,Hybrid,Jakarta,22,4,,47.0,17,36,3.7,High
+EMP00336,IT,Software Engineer,High School,Hybrid,Semarang,54,10,25813528.0,28.0,13,0,1.3,Medium
+EMP00337,HR,Product Manager,Bachelor,Remote,Yogyakarta,32,4,8721236.0,64.0,19,15,4.9,High
+EMP00338,IT,Finance Analyst,Bachelor,Onsite, jakarta ,26,18,20347011.0,4.0,10,25,3.8,Medium
+EMP00339,Finance,Software Engineer,Master,Remote,Surabaya,38,8,5545697.0,30.0,6,16,4.2,Medium
+EMP00340,Marketing,Finance Analyst,Master,Onsite,Semarang,56,8,7036131.0,70.0,1,1,2.2,Medium
+EMP00341,Marketing,Software Engineer,,Hybrid,Surabaya,32,11,9619561.0,3.0,3,38,2.7,Low
+EMP00342,Sales,Data Engineer,Diploma,Remote,Semarang,46,31,29157112.0,48.0,13,12,2.3,Medium
+EMP00343,HR,Software Engineer,High School,Hybrid,Bandung,33,31,10471271.0,23.0,16,17,1.4,Medium
+EMP00344,Marketing,Data Analyst,,Hybrid,Jakarta,46,4,15279105.0,1.0,8,6,4.1,Medium
+EMP00345,IT,Software Engineer,Diploma,Hybrid,Bandung,59,29,22294668.0,29.0,1,29,3.6,Medium
+EMP00346,Operations,Business Analyst,High School,Remote,Bandung,42,28,12828237.0,14.0,17,13,2.2,High
+EMP00347,IT,Product Manager,Bachelor,Remote,Bandung,23,16,15759087.0,34.0,16,32,3.6,High
+EMP00348,HR,Software Engineer,Master,Hybrid,Bandung,53,22,22193179.0,16.0,11,8,,High
+EMP00349,IT,Sales Executive,Bachelor,Onsite,Yogyakarta,50,17,17575151.0,13.0,14,0,3.8,Medium
+EMP00350,HR,Data Analyst,High School,Onsite,Bandung,48,32,6979556.0,73.0,16,3,4.4,High
+EMP00351,Finance,Data Analyst,Diploma,Onsite,Yogyakarta,36,8,27160296.0,40.0,14,1,1.5,High
+EMP00352,Operations,Customer Success,,Hybrid,Yogyakarta,57,12,12002776.0,65.0,1,30,4.7,Low
+EMP00353,Marketing,Data Analyst,High School,Remote,Semarang,48,28,25891006.0,,16,32,3.5,Low
+EMP00354,Sales,Product Manager,Bachelor,Remote,Surabaya,29,34,20215707.0,28.0,8,12,,Medium
+EMP00355,HR,Product Manager,Master,Remote,Yogyakarta,55,26,12367646.0,63.0,12,19,4.3,Medium
+EMP00356,HR,Data Engineer,High School,Hybrid,Surabaya,59,9,13902884.0,64.0,1,0,4.8,Low
+EMP00357,Sales,Sales Executive,Master,Onsite,Surabaya,54,14,28347416.0,51.0,3,35,2.9,Medium
+EMP00358,Finance,Business Analyst,Diploma,Onsite,Semarang,24,4,18344675.0,74.0,2,33,2.7,Medium
+EMP00359,Marketing,Marketing Specialist,Master,Hybrid,Semarang,31,11,20225623.0,18.0,7,4,2.0,Medium
+EMP00360,HR,Finance Analyst,Bachelor,Hybrid,Surabaya,51,0,17207735.0,19.0,18,31,4.4,High
+EMP00361,HR,Marketing Specialist,High School,Remote,Surabaya,45,29,17775639.0,60.0,18,18,2.6,High
+EMP00362,IT,Business Analyst,Master,Onsite,Bandung,41,31,17854365.0,16.0,5,0,,High
+EMP00363,IT,Data Engineer,,Onsite,Bandung,46,14,11188072.0,73.0,18,22,,High
+EMP00364,Finance,Business Analyst,High School,Remote,Bandung,29,13,20540221.0,12.0,7,18,2.5,High
+EMP00365,HR,Data Analyst,High School,Remote,Semarang,48,26,20873030.0,43.0,9,25,1.6,Low
+EMP00366,Sales,Data Engineer,,Remote,Semarang,40,28,22075820.0,24.0,12,14,2.1,Low
+EMP00367,HR,Marketing Specialist,Master,Onsite,Jakarta,32,8,15886779.0,56.0,10,15,3.3,Low
+EMP00368,Finance,Product Manager,Diploma,Remote,Medan,48,12,8055589.0,63.0,8,28,4.5,Low
+EMP00369,Operations,Customer Success,Master,Hybrid,Surabaya,39,22,26243732.0,,4,35,3.5,Medium
+EMP00370,HR,Data Analyst,High School,Remote,Jakarta,40,33,12952592.0,74.0,2,35,5.0,High
+EMP00371,HR,Sales Executive,Master,Hybrid,Jakarta,40,0,23979147.0,67.0,11,28,1.1,Medium
+EMP00372,Operations,Customer Success,Bachelor,Remote,Yogyakarta,36,31,23292911.0,22.0,1,5,4.5,High
+EMP00373,IT,Product Manager,Bachelor,Onsite,Yogyakarta,48,22,13369665.0,33.0,16,24,2.9,Medium
+EMP00374,HR,Product Manager,Diploma,Onsite,Yogyakarta,59,18,,,19,30,4.0,High
+EMP00375,IT,Business Analyst,Master,Onsite,Yogyakarta,31,25,23196236.0,,14,38,3.9,High
+EMP00376,Operations,HR Officer,Diploma,Hybrid,Medan,50,24,24842040.0,34.0,13,17,3.9,Medium
+EMP00377,HR,Product Manager,Master,Remote,Surabaya,34,14,6515980.0,3.0,2,19,1.2,Medium
+EMP00378,Marketing,Customer Success,Bachelor,Remote,Surabaya,45,3,12096147.0,3.0,8,37,3.7,High
+EMP00379,Marketing,Finance Analyst,Bachelor,Remote,Yogyakarta,45,34,10340557.0,33.0,13,11,1.5,Low
+EMP00380,HR,Business Analyst,High School,Remote,Bandung,46,14,25443841.0,6.0,3,27,1.4,High
+EMP00381,Marketing,Data Engineer,Master,Remote,Surabaya,46,28,23566421.0,,7,37,4.4,Low
+EMP00382,Marketing,Product Manager,High School,Hybrid,Semarang,27,2,10684063.0,67.0,8,5,4.1,Low
+EMP00383,HR,Sales Executive,Bachelor,Onsite,Yogyakarta,50,20,13814900.0,,7,31,4.9,Medium
+EMP00384,IT,Finance Analyst,Bachelor,Onsite,Yogyakarta,55,19,21299002.0,1.0,4,15,4.6,High
+EMP00385,IT,Data Analyst,Master,Remote,Jakarta,32,21,18675149.0,11.0,1,17,3.5,High
+EMP00386,it,Sales Executive,Diploma,Remote,Bandung,35,9,11343866.0,,13,33,2.0,High
+EMP00387,Sales,Sales Executive,,Onsite,Medan,32,21,15227816.0,26.0,9,8,4.0,Medium
+EMP00388,IT,Data Analyst,Master,Remote,Surabaya,55,29,7773173.0,69.0,10,10,,Medium
+EMP00389,Operations,Data Engineer,Master,Remote,Bandung,30,28,26990547.0,6.0,17,24,3.0,High
+EMP00390,Marketing,Marketing Specialist,,Onsite,Medan,59,0,6875465.0,10.0,7,26,,Medium
+EMP00391,HR,Software Engineer,Master,Remote,Bandung,39,31,5208819.0,74.0,3,33,3.1,Medium
+EMP00392,Operations,Business Analyst,High School,Hybrid,Semarang,36,2,29979572.0,39.0,2,22,4.0,Medium
+EMP00393,Marketing,Customer Success,Bachelor,Onsite,Surabaya,49,28,7845577.0,20.0,14,13,,Low
+EMP00394,Sales,HR Officer,High School,Hybrid,Bandung,26,6,28400271.0,,4,37,3.1,Low
+EMP00395,HR,Software Engineer,High School,Hybrid,Jakarta,42,7,15636071.0,,13,22,,High
+EMP00396,Operations,Marketing Specialist,Master,Hybrid,Jakarta,21,28,9962448.0,50.0,13,37,4.3,Low
+EMP00397,Sales,Customer Success,Bachelor,Hybrid,Yogyakarta,26,10,5254263.0,18.0,2,12,4.6,Low
+EMP00398,HR,Marketing Specialist,Master,Hybrid,Yogyakarta,23,32,14728648.0,,9,29,4.8,High
+EMP00399,Operations,HR Officer,Diploma,Hybrid,Medan,56,18,20461620.0,71.0,18,21,4.1,Medium
+EMP00400,Finance,HR Officer,High School,Remote,Yogyakarta,37,12,28880255.0,55.0,6,12,4.4,Medium
+EMP00401,Marketing,Marketing Specialist,Diploma,Remote,Yogyakarta,34,24,27942126.0,50.0,1,14,,High
+EMP00402,HR,HR Officer,Master,Hybrid,Jakarta,33,23,19151863.0,0.0,0,33,4.1,Medium
+EMP00403,HR,Customer Success,,Hybrid,Semarang,53,29,22395756.0,8.0,0,28,,Low
+EMP00404,Marketing,Software Engineer,High School,Remote,Surabaya,43,20,10113221.0,79.0,7,39,2.1,Low
+EMP00405,IT,Data Analyst,,Hybrid,Bandung,35,10,26758092.0,39.0,5,33,3.0,Low
+EMP00406,HR,Data Engineer,,Remote,Semarang,32,10,6603836.0,58.0,5,9,1.1,Low
+EMP00407,Operations,Marketing Specialist,,Remote,Jakarta,53,7,6670643.0,,1,220,2.4,Medium
+EMP00408,Marketing,Data Engineer,High School,Hybrid,Yogyakarta,51,11,16086817.0,,10,26,3.5,Low
+EMP00409,IT,Data Engineer,Diploma,Remote,Jakarta,37,20,18056454.0,5.0,16,30,,High
+EMP00410,Marketing,Business Analyst,High School,Hybrid,Jakarta,45,19,25932706.0,10.0,14,18,2.1,Low
+EMP00411,Marketing,Data Engineer,Bachelor,Hybrid,Jakarta,39,0,7253105.0,71.0,0,10,2.6,Low
+EMP00412,Sales,Customer Success,,Remote,Yogyakarta,38,8,7819553.0,38.0,17,33,4.3,Medium
+EMP00413,HR,Software Engineer,Diploma,Onsite,Surabaya,31,12,18035584.0,14.0,8,5,2.8,Low
+EMP00414,Sales,Customer Success,Diploma,Hybrid,Jakarta,43,34,8413853.0,41.0,18,8,1.2,Low
+EMP00415,Operations,Data Analyst,Master,Hybrid,Medan,37,12,25480153.0,58.0,18,34,4.6,Medium
+EMP00416,Sales,Software Engineer,Bachelor,Hybrid,Yogyakarta,41,8,12586110.0,34.0,19,6,4.1,High
+EMP00417,Marketing,Customer Success,Diploma,Hybrid,Bandung,43,9,6510824.0,35.0,10,31,4.4,Medium
+EMP00418,Marketing,Software Engineer,Bachelor,Hybrid,Jakarta,57,34,21171193.0,54.0,11,5,2.2,Medium
+EMP00419,Marketing,Customer Success,Bachelor,Hybrid,Yogyakarta,59,8,10706279.0,22.0,4,23,4.0,High
+EMP00420,Sales,Marketing Specialist,High School,Hybrid,Jakarta,40,8,6190992.0,61.0,16,29,2.0,Low
+EMP00421,HR,Marketing Specialist,Diploma,Hybrid,Surabaya,30,12,10614330.0,,4,12,2.7,High
+EMP00422,Sales,HR Officer,Bachelor,Hybrid,Yogyakarta,31,11,5656507.0,43.0,12,17,3.4,Medium
+EMP00423,Sales,HR Officer,Bachelor,Hybrid,Semarang,33,7,29098953.0,7.0,5,8,3.9,High
+EMP00424,IT,Sales Executive,High School,Remote,Semarang,32,17,5164181.0,54.0,6,37,4.3,Low
+EMP00425,HR,Customer Success,Diploma,Onsite,Semarang,21,8,20122307.0,19.0,8,9,4.2,Low
+EMP00426,Sales,Marketing Specialist,Master,Onsite,Medan,48,26,17211669.0,33.0,8,27,4.5,High
+EMP00427,Finance,Data Analyst,Master,Remote,Medan,33,31,14903261.0,21.0,2,36,2.9,Medium
+EMP00428,Sales,Sales Executive,High School,Remote,Surabaya,39,12,23129655.0,66.0,18,19,4.6,Medium
+EMP00429,Sales,Product Manager,,Hybrid,Surabaya,46,26,9001658.0,40.0,1,22,4.0,High
+EMP00430,Marketing,Product Manager,,Hybrid,Jakarta,39,21,17459964.0,68.0,11,30,1.1,High
+EMP00431,Marketing,Customer Success,Diploma,Onsite,Surabaya,45,29,25489647.0,68.0,11,25,2.8,Low
+EMP00432,IT,Software Engineer,Master,Remote,Semarang,46,7,29850519.0,16.0,9,39,4.5,High
+EMP00433,Operations,Product Manager,Diploma,Remote,Bandung,55,22,15867352.0,11.0,2,38,1.7,High
+EMP00434,Sales,HR Officer,High School,Remote,Medan,50,27,,8.0,12,18,1.1,Low
+EMP00435,Operations,Marketing Specialist,Master,Hybrid,Surabaya,52,24,14294440.0,43.0,16,3,4.2,Low
+EMP00436,Sales,HR Officer,High School,Remote,Surabaya,53,19,29441727.0,71.0,10,35,2.1,Low
+EMP00437,HR,Finance Analyst,Bachelor,Hybrid,Medan,21,20,,41.0,14,24,2.9,Low
+EMP00438,Finance,Business Analyst,Diploma,Hybrid,Medan,54,27,16599831.0,46.0,0,2,3.0,Low
+EMP00439,IT,Product Manager,High School,Onsite,Yogyakarta,59,1,20319856.0,22.0,11,17,2.1,Medium
+EMP00440,HR,Data Analyst,High School,Remote,Jakarta,54,8,,72.0,11,8,,High
+EMP00441,Sales,Software Engineer,Diploma,Hybrid,Surabaya,44,34,23670738.0,30.0,8,18,2.0,High
+EMP00442,Sales,Finance Analyst,Bachelor,Onsite,Surabaya,29,18,21418585.0,61.0,19,38,4.9,High
+EMP00443,HR,Sales Executive,High School,Remote,Bandung,54,22,17186783.0,70.0,6,11,1.2,Medium
+EMP00444,IT,Software Engineer,Diploma,Hybrid,Bandung,23,7,26487910.0,1.0,4,17,4.0,Low
+EMP00445,Finance,Product Manager,Diploma,Remote,Bandung,50,31,21457409.0,0.0,14,21,4.6,Low
+EMP00446,Operations,Customer Success,Master,Remote,Semarang,95,26,14471217.0,20.0,19,3,2.5,Low
+EMP00447,Operations,Customer Success,Bachelor,Remote,Jakarta,54,8,16970856.0,36.0,8,37,4.1,Medium
+EMP00448,IT,HR Officer,High School,Onsite,Medan,59,12,24205958.0,69.0,18,24,3.0,Medium
+EMP00449,Operations,Finance Analyst,Diploma,Onsite,Surabaya,59,26,29776790.0,17.0,17,1,2.1,Medium
+EMP00450,Marketing,Business Analyst,Bachelor,Hybrid,Medan,46,31,22174878.0,73.0,17,32,1.7,Medium
+EMP00451,Operations,Business Analyst,Bachelor,Onsite,Jakarta,31,32,29521209.0,,19,39,1.7,High
+EMP00452,Finance,Data Engineer,Diploma,Hybrid,Jakarta,27,21,24940047.0,,2,22,4.2,Low
+EMP00453,Operations,Sales Executive,Bachelor,Hybrid,Bandung,57,8,18344686.0,18.0,4,37,4.9,Low
+EMP00454,HR,Data Analyst,Diploma,Onsite,Yogyakarta,36,5,,26.0,10,16,2.4,High
+EMP00455,Sales,Data Analyst,Diploma,Onsite,Bandung,59,31,17929854.0,29.0,17,37,1.3,Low
+EMP00456,HR,Product Manager,Diploma,Onsite,Semarang,28,29,6732499.0,15.0,19,21,,Low
+EMP00457,Operations,Finance Analyst,Bachelor,Onsite,Jakarta,42,20,14574215.0,2.0,18,25,4.9,Low
+EMP00458,Finance,Data Engineer,Bachelor,Onsite,Bandung,25,30,23107731.0,7.0,7,25,3.1,Medium
+EMP00459,Sales,Marketing Specialist,Master,Hybrid, jakarta ,33,10,17858650.0,76.0,18,13,1.7,Low
+EMP00460,HR,Data Engineer,High School,Hybrid,Medan,35,29,23386000.0,31.0,18,25,2.8,Medium
+EMP00461,HR,Software Engineer,High School,Onsite,Surabaya,48,20,14697514.0,30.0,6,27,3.7,High
+EMP00462,HR,Finance Analyst,High School,Hybrid,Bandung,32,5,12939244.0,9.0,11,18,1.4,Low
+EMP00463,Sales,Customer Success,Diploma,Onsite,Semarang,27,8,18903055.0,23.0,13,26,3.9,Low
+EMP00464,Finance,Customer Success,Bachelor,Hybrid,Jakarta,48,29,6252311.0,40.0,18,14,2.9,Low
+EMP00465,HR,Product Manager,Master,Onsite,Bandung,50,8,19390942.0,23.0,16,3,2.7,Medium
+EMP00466,Marketing,Business Analyst,Diploma,Remote,Jakarta,45,33,28835095.0,41.0,14,29,2.8,High
+EMP00467,Operations,Sales Executive,Master,Remote,Bandung,30,27,14134406.0,2.0,18,14,2.5,Medium
+EMP00468,HR,Data Analyst,High School,Hybrid,Bandung,21,7,26214342.0,7.0,13,0,2.3,High
+EMP00469,Sales,Finance Analyst,Master,Hybrid,Jakarta,23,11,11874526.0,50.0,4,17,1.4,Medium
+EMP00470,IT,HR Officer,High School,Onsite,Jakarta,35,22,23261527.0,32.0,15,29,1.2,Medium
+EMP00471,IT,Finance Analyst,Bachelor,Onsite,Bandung,54,8,29993705.0,30.0,6,0,1.2,High
+EMP00472,Sales,Business Analyst,Master,Onsite,Semarang,55,26,21748936.0,4.0,19,10,3.0,High
+EMP00473,HR,Customer Success,Master,Onsite,Bandung,53,28,17946231.0,52.0,0,14,1.1,Low
+EMP00474,Marketing,Marketing Specialist,Master,Remote,Surabaya,42,23,5977686.0,78.0,8,20,2.8,High
+EMP00475,HR,Business Analyst,High School,Onsite,Jakarta,45,16,26026025.0,12.0,10,7,1.9,Low
+EMP00476,Sales,Business Analyst,High School,Onsite,Jakarta,55,26,25804973.0,50.0,3,28,4.8,Medium
+EMP00477,Operations,Business Analyst,High School,Hybrid,Bandung,22,9,28839936.0,,15,15,1.3,High
+EMP00478,Finance,Marketing Specialist,Master,Remote,Medan,35,23,26752988.0,67.0,6,38,1.8,Low
+EMP00479,IT,Data Analyst,High School,Hybrid,Surabaya,36,28,28678815.0,13.0,13,30,1.6,High
+EMP00480,Finance,Business Analyst,Diploma,Remote,Medan,32,30,18415531.0,64.0,15,36,,Low
+EMP00481,Finance,Data Analyst,Bachelor,Onsite,Semarang,23,32,18727248.0,,8,15,2.8,Low
+EMP00482,Finance,Software Engineer,Bachelor,Hybrid,Medan,28,18,5931051.0,75.0,15,31,2.5,High
+EMP00483,IT,Data Engineer,Diploma,Hybrid,Surabaya,57,18,5165754.0,69.0,4,29,1.8,Medium
+EMP00484,Sales,Software Engineer,Bachelor,Onsite,Medan,45,0,21424874.0,38.0,16,39,4.8,Low
+EMP00485,Marketing,Sales Executive,Bachelor,Hybrid,Medan,36,18,17684244.0,28.0,10,0,,High
+EMP00486,Finance,Data Analyst,High School,Onsite,Semarang,43,27,10467210.0,49.0,12,36,3.7,Low
+EMP00487,Operations,Data Engineer,Master,Remote,Surabaya,32,24,13716484.0,4.0,14,36,1.7,Low
+EMP00488,HR,Business Analyst,High School,Onsite,Surabaya,40,25,,2.0,0,37,,Medium
+EMP00489,IT,Sales Executive,Diploma,Hybrid,Medan,52,0,12231165.0,,18,5,2.2,Low
+EMP00490,HR,Sales Executive,Master,Onsite, jakarta ,25,12,10257151.0,75.0,9,24,2.4,Medium
+EMP00491,Finance,HR Officer,Diploma,Onsite,Bandung,34,25,,,9,9,2.3,Medium
+EMP00492,IT,Customer Success,Diploma,Remote,Surabaya,41,4,,20.0,19,2,4.6,Medium
+EMP00493,IT,Finance Analyst,Master,Hybrid,Yogyakarta,50,31,21847483.0,11.0,13,8,,Low
+EMP00494,HR,Sales Executive,Master,Onsite,Bandung,37,22,28044497.0,4.0,11,32,1.9,Medium
+EMP00495,Finance,Finance Analyst,High School,Onsite,Surabaya,46,4,12841619.0,51.0,11,29,1.8,Medium
+EMP00496,Finance,HR Officer,Master,Remote,Surabaya,47,9,7630718.0,,16,39,3.5,Medium
+EMP00497,Marketing,Software Engineer,Diploma,Remote,Bandung,45,23,20226973.0,3.0,0,28,,High
+EMP00498,Sales,Data Analyst,High School,Onsite,Surabaya,44,10,22342480.0,29.0,16,7,1.8,Low
+EMP00499,IT,Software Engineer,Master,Hybrid,Yogyakarta,23,13,23950886.0,1.0,4,31,3.1,Medium
+EMP00500,Marketing,Software Engineer,Bachelor,Onsite,Semarang,33,30,5876486.0,18.0,19,33,4.8,Low
+EMP00501,Sales,Customer Success,,Onsite,Semarang,55,19,16817281.0,20.0,12,37,3.2,Medium
+EMP00502,HR,Data Analyst,High School,Onsite,Surabaya,28,9,15764760.0,16.0,10,19,2.7,High
+EMP00503,Finance,Sales Executive,High School,Onsite,Medan,44,1,26691199.0,4.0,1,0,4.9,Low
+EMP00504,HR,Finance Analyst,,Hybrid,Jakarta,33,22,25135190.0,,9,3,3.7,High
+EMP00505,HR,Software Engineer,Master,Hybrid,Semarang,24,25,5191123.0,7.0,1,8,1.4,High
+EMP00506,HR,Data Engineer,High School,Remote,Surabaya,55,4,12415446.0,54.0,0,29,4.7,High
+EMP00507,Sales,HR Officer,High School,Remote,Medan,57,9,15940913.0,24.0,6,29,3.6,Medium
+EMP00508,IT,Sales Executive,High School,Hybrid,Bandung,30,2,13652707.0,73.0,3,4,4.6,Low
+EMP00509,Finance,Product Manager,High School,Onsite,Yogyakarta,22,13,25282869.0,65.0,7,28,1.6,Medium
+EMP00510,Operations,HR Officer,High School,Hybrid,Yogyakarta,36,27,29649627.0,2.0,2,27,1.8,Medium
+EMP00511,Finance,Customer Success,High School,Onsite,Medan,46,25,20678484.0,56.0,9,24,2.7,High
+EMP00512,Operations,Finance Analyst,Diploma,Remote,Medan,28,32,,4.0,6,2,2.3,Low
+EMP00513,IT,Marketing Specialist,Bachelor,Onsite,Surabaya,43,29,12411273.0,68.0,8,39,,Medium
+EMP00514,Sales,Marketing Specialist,Master,Onsite,Jakarta,56,24,14543596.0,26.0,8,27,1.1,Medium
+EMP00515,Marketing,Data Engineer,Master,Onsite,Yogyakarta,26,21,21971694.0,47.0,13,7,2.6,High
+EMP00516,Operations,Marketing Specialist,Diploma,Remote,Bandung,26,18,21690100.0,300.0,12,4,3.0,Low
+EMP00517,HR,Data Engineer,Master,Onsite,Semarang,48,22,,38.0,13,32,3.0,High
+EMP00518,Sales,Data Engineer,Bachelor,Onsite,Jakarta,57,15,,5.0,19,4,2.4,Low
+EMP00519,Operations,Sales Executive,Diploma,Onsite,Surabaya,46,8,10945144.0,63.0,7,34,2.7,High
+EMP00520,Marketing,Finance Analyst,Bachelor,Onsite,Medan,44,20,11393451.0,,7,7,4.3,Low
+EMP00521,HR,Finance Analyst,Bachelor,Onsite,Semarang,40,21,,,10,36,3.7,Low
+EMP00522,Marketing,Software Engineer,High School,Hybrid,Semarang,48,28,29988427.0,9.0,6,18,4.4,Medium
+EMP00523,it,Finance Analyst,High School,Remote,Medan,21,21,22773220.0,,19,25,1.4,Low
+EMP00524,HR,Product Manager,Bachelor,Hybrid,Medan,59,15,10494279.0,10.0,1,21,3.1,High
+EMP00525,IT,Data Engineer,High School,Remote,Surabaya,35,17,,66.0,14,16,3.0,Medium
+EMP00526,Operations,Data Engineer,Diploma,Remote,Yogyakarta,35,17,15921755.0,35.0,19,18,1.4,Low
+EMP00527,HR,Data Analyst,,Onsite,Yogyakarta,27,27,13234289.0,75.0,17,24,3.3,Low
+EMP00528,Marketing,Sales Executive,High School,Hybrid,Jakarta,59,24,23839175.0,12.0,16,21,4.9,Medium
+EMP00529,Finance,Software Engineer,Master,Onsite,Yogyakarta,41,5,250000000.0,42.0,4,38,4.2,High
+EMP00530,Sales,Data Engineer,,Hybrid,Bandung,40,34,20818524.0,45.0,3,38,1.1,High
+EMP00531,Marketing,Product Manager,Diploma,Hybrid,Surabaya,22,11,12612492.0,54.0,4,4,1.1,Medium
+EMP00532,Sales,Software Engineer,Bachelor,Onsite,Jakarta,26,23,25076058.0,,13,21,2.8,Low
+EMP00533,IT,Software Engineer,Diploma,Remote,Semarang,23,2,26386709.0,62.0,5,22,3.2,Low
+EMP00534,HR,Data Engineer,Master,Onsite,Yogyakarta,30,18,27276282.0,40.0,13,0,2.6,Low
+EMP00535,HR,Software Engineer,High School,Hybrid,Jakarta,53,3,12127753.0,62.0,6,21,,High
+EMP00536,Operations,Marketing Specialist,High School,Onsite,Yogyakarta,45,10,14887288.0,500.0,19,2,3.3,Low
+EMP00537,Sales,Marketing Specialist,Bachelor,Hybrid,Medan,28,34,7523591.0,,0,39,1.3,Medium
+EMP00538,Marketing,HR Officer,Diploma,Remote,Yogyakarta,51,21,5599740.0,37.0,3,7,4.8,High
+EMP00539,Finance,Software Engineer,Master,Hybrid,Medan,21,3,8257673.0,59.0,5,12,2.8,High
+EMP00540,HR,Customer Success,Master,Onsite,Bandung,45,1,14776616.0,19.0,4,31,,Medium
+EMP00541,Sales,Data Analyst,Bachelor,Hybrid,Jakarta,58,26,15191049.0,26.0,17,22,1.4,High
+EMP00542,it,Sales Executive,High School,Onsite,Medan,44,28,,15.0,12,25,3.0,Low
+EMP00543,IT,Marketing Specialist,High School,Hybrid,Surabaya,28,3,5802504.0,2.0,19,30,,Low
+EMP00544,Sales,HR Officer,,Onsite,Yogyakarta,23,5,25794087.0,22.0,18,34,1.3,Low
+EMP00545,Finance,Customer Success,High School,Hybrid,Bandung,32,30,8106339.0,12.0,12,25,1.2,Low
+EMP00546,Sales,Data Analyst,Diploma,Remote,Medan,42,8,20194715.0,73.0,17,21,3.9,Low
+EMP00547,Finance,Customer Success,Master,Remote,Semarang,38,27,27467546.0,74.0,17,3,4.7,High
+EMP00548,Finance,Data Engineer,Diploma,Remote,Semarang,47,2,7060694.0,65.0,10,2,4.6,Medium
+EMP00549,HR,Sales Executive,Master,Onsite,Surabaya,50,12,19226311.0,50.0,7,35,,High
+EMP00550,Finance,Business Analyst,Bachelor,Hybrid,Surabaya,49,32,29682713.0,58.0,4,34,2.6,Low
+EMP00551,Sales,Customer Success,High School,Hybrid,Surabaya,56,26,27642608.0,20.0,10,1,1.7,Medium
+EMP00552,Marketing,Sales Executive,Master,Hybrid,Jakarta,31,8,18348993.0,3.0,14,17,1.5,Low
+EMP00553,Sales,Finance Analyst,High School,Onsite,Surabaya,50,7,16693686.0,49.0,11,30,2.8,Low
+EMP00554,Operations,Product Manager,Master,Remote,Surabaya,41,32,16012745.0,76.0,13,16,2.2,Low
+EMP00555,HR,Data Analyst,Bachelor,Remote,Medan,38,32,9673803.0,63.0,1,8,2.9,Medium
+EMP00556,HR,Product Manager,Diploma,Onsite,Surabaya,52,1,19469432.0,6.0,19,1,3.4,Medium
+EMP00557,Marketing,HR Officer,,Hybrid,Jakarta,38,24,28915257.0,,13,25,4.5,Low
+EMP00558,Operations,Sales Executive,Diploma,Onsite,Jakarta,37,6,28065566.0,10.0,0,14,2.5,Medium
+EMP00559,Operations,Sales Executive,Bachelor,Onsite,Bandung,54,33,26514907.0,29.0,8,38,4.8,Low
+EMP00560,Finance,Software Engineer,Bachelor,Onsite,Bandung,22,11,5025640.0,76.0,5,13,2.8,Low
+EMP00561,HR,Marketing Specialist,Bachelor,Hybrid,Bandung,51,13,,1.0,9,36,1.0,Low
+EMP00562,IT,Finance Analyst,High School,Onsite,Bandung,52,19,27761335.0,11.0,6,5,2.8,Medium
+EMP00563,IT,HR Officer,Diploma,Remote,Medan,58,6,29503967.0,49.0,3,27,4.6,Medium
+EMP00564,IT,Customer Success,Master,Hybrid,Jakarta,24,11,7391953.0,50.0,9,11,4.4,High
+EMP00565,HR,HR Officer,High School,Remote,Yogyakarta,22,9,8337533.0,29.0,16,21,4.2,Low
+EMP00566,Marketing,Sales Executive,Bachelor,Remote,Semarang,32,32,20241503.0,79.0,14,30,4.9,High
+EMP00567,Sales,HR Officer,Bachelor,Onsite,Bandung,41,23,12780695.0,19.0,11,4,4.0,Medium
+EMP00568,Sales,Customer Success,Master,Hybrid,Bandung,36,19,19800151.0,3.0,4,8,3.1,Medium
+EMP00569,Finance,Sales Executive,Bachelor,Onsite,Semarang,39,34,24956410.0,7.0,0,19,3.2,Medium
+EMP00570,Finance,Data Engineer,Master,Hybrid,Jakarta,45,11,8151992.0,40.0,9,0,1.8,High
+EMP00571,Marketing,Product Manager,High School,Onsite,Surabaya,38,3,11776883.0,500.0,12,15,3.3,Low
+EMP00572,Marketing,Software Engineer,Diploma,Remote,Semarang,24,1,9034750.0,,3,12,2.2,High
+EMP00573,Marketing,Finance Analyst,High School,Onsite,Semarang,36,16,24225646.0,27.0,14,33,1.2,Low
+EMP00574,Sales,Data Engineer,High School,Remote,Yogyakarta,55,23,,43.0,14,11,4.5,High
+EMP00575,HR,Marketing Specialist,Master,Onsite,Jakarta,26,21,9906295.0,18.0,12,29,1.1,Low
+EMP00576,Finance,Business Analyst,Diploma,Hybrid,Medan,41,26,16671813.0,17.0,16,33,,Low
+EMP00577,Finance,HR Officer,High School,Hybrid,Medan,43,0,8269440.0,70.0,4,36,1.8,Low
+EMP00578,Finance,Sales Executive,Master,Hybrid,Surabaya,50,34,16451012.0,16.0,17,23,3.6,High
+EMP00579,Finance,Marketing Specialist,Master,Hybrid,Jakarta,31,31,11804115.0,3.0,13,27,3.3,High
+EMP00580,IT,Finance Analyst,High School,Hybrid,Jakarta,42,3,5621424.0,44.0,16,7,3.8,Low
+EMP00581,HR,Finance Analyst,Diploma,Onsite,Surabaya,54,23,13123030.0,,16,0,4.5,High
+EMP00582,HR,Finance Analyst,Bachelor,Remote,Semarang,39,19,11984429.0,50.0,4,20,2.7,Medium
+EMP00583,IT,Customer Success,Bachelor,Remote,Yogyakarta,43,19,15260869.0,7.0,6,14,2.8,Medium
+EMP00584,IT,Finance Analyst,Master,Remote,Surabaya,31,30,23412846.0,25.0,14,0,1.8,Low
+EMP00585,HR,HR Officer,High School,Remote,Jakarta,52,24,25131685.0,37.0,11,22,1.5,Medium
+EMP00586,Finance,Product Manager,High School,Onsite,Semarang,28,22,12037387.0,5.0,6,31,2.8,Low
+EMP00587,Sales,HR Officer,High School,Onsite,Surabaya,55,15,10740260.0,72.0,11,36,3.1,Medium
+EMP00588,Marketing,HR Officer,Bachelor,Onsite,Medan,26,17,26463571.0,28.0,16,33,1.1,High
+EMP00589,Operations,Sales Executive,Diploma,Hybrid,Semarang,32,18,20531721.0,57.0,15,19,1.8,Medium
+EMP00590,Operations,Data Engineer,Diploma,Onsite,Semarang,59,16,12210423.0,24.0,19,23,3.5,Medium
+EMP00591,Operations,Software Engineer,High School,Remote,Yogyakarta,59,24,29765968.0,37.0,8,19,2.0,High
+EMP00592,HR,Product Manager,Bachelor,Onsite,Bandung,31,29,20871630.0,,2,10,2.9,High
+EMP00593,Marketing,Software Engineer,Diploma,Hybrid,Jakarta,38,18,19224429.0,39.0,16,0,3.6,High
+EMP00594,Marketing,Customer Success,Master,Hybrid,Jakarta,45,8,24908109.0,57.0,14,18,2.9,High
+EMP00595,Operations,Customer Success,Master,Onsite,Jakarta,44,31,10216463.0,54.0,10,10,4.0,Medium
+EMP00596,Finance,Data Engineer,Diploma,Onsite,Surabaya,40,2,24022181.0,17.0,7,23,3.8,Low
+EMP00597,Sales,Software Engineer,High School,Onsite,Jakarta,41,20,8732012.0,34.0,13,35,4.1,Low
+EMP00598,Marketing,Data Engineer,High School,Hybrid,Medan,22,18,14791905.0,63.0,8,18,2.0,High
+EMP00599,Operations,Sales Executive,Diploma,Hybrid,Yogyakarta,37,17,11407954.0,54.0,11,21,2.1,High
+EMP00600,Finance,Data Engineer,,Hybrid,Medan,30,25,25653561.0,,8,4,4.3,High
+EMP00601,HR,Customer Success,High School,Onsite,Medan,57,22,17301807.0,48.0,5,27,2.7,Low
+EMP00602,Finance,Marketing Specialist,Diploma,Remote,Bandung,30,13,20818734.0,49.0,10,3,3.3,High
+EMP00603,IT,Product Manager,High School,Remote,Surabaya,26,27,8467006.0,41.0,16,5,1.6,Low
+EMP00604,IT,Business Analyst,Bachelor,Onsite,Medan,30,3,23900048.0,19.0,14,25,4.0,Medium
+EMP00605,Marketing,Data Analyst,Diploma,Remote,Jakarta,42,6,23108984.0,40.0,15,22,3.8,Medium
+EMP00606,Marketing,Data Engineer,High School,Hybrid,Jakarta,25,8,6524878.0,25.0,13,32,3.8,High
+EMP00607,Finance,Finance Analyst,Bachelor,Remote,Jakarta,40,18,11114096.0,68.0,19,36,3.5,Low
+EMP00608,Sales,Data Engineer,Bachelor,Remote,Surabaya,37,8,20552722.0,63.0,3,17,2.9,High
+EMP00609,HR,Marketing Specialist,Diploma,Onsite,Bandung,37,24,6098191.0,41.0,0,37,1.6,Medium
+EMP00610,IT,Data Engineer,Diploma,Remote,Medan,23,23,19125469.0,71.0,17,4,2.9,Low
+EMP00611,HR,HR Officer,,Remote,Jakarta,30,5,20593071.0,,5,29,1.7,Low
+EMP00612,HR,Finance Analyst,Diploma,Remote,Jakarta,35,9,22002924.0,300.0,19,20,3.3,Low
+EMP00613,Finance,Finance Analyst,High School,Remote,Yogyakarta,23,27,22577260.0,73.0,3,6,2.7,Low
+EMP00614,Finance,Data Engineer,High School,Remote,Yogyakarta,25,20,29965307.0,68.0,5,33,4.4,Medium
+EMP00615,HR,Finance Analyst,Diploma,Onsite,Yogyakarta,47,28,24623641.0,33.0,4,27,2.7,Medium
+EMP00616,Marketing,Data Analyst,Bachelor,Remote,Surabaya,26,15,8591113.0,74.0,17,18,2.6,Medium
+EMP00617,IT,Customer Success,High School,Hybrid,Yogyakarta,42,33,13767974.0,46.0,10,38,3.0,Low
+EMP00618,Operations,HR Officer,High School,Onsite,Surabaya,58,29,,56.0,10,11,4.8,Medium
+EMP00619,Marketing,HR Officer,Master,Hybrid,Bandung,32,25,10324607.0,31.0,9,27,2.0,Low
+EMP00620,Marketing,Business Analyst,Master,Onsite,Bandung,48,10,21665917.0,23.0,15,5,2.2,Medium
+EMP00621,Sales,Business Analyst,Diploma,Remote,Yogyakarta,55,31,7001079.0,,7,1,1.7,Low
+EMP00622,Finance,Sales Executive,High School,Hybrid,Bandung,49,17,28893562.0,40.0,9,3,1.1,Medium
+EMP00623,Marketing,HR Officer,Diploma,Remote,Jakarta,33,24,,1.0,13,4,1.6,High
+EMP00624,it,Business Analyst,Bachelor,Remote,Surabaya,59,14,26948011.0,31.0,11,1,1.1,Medium
+EMP00625,Operations,Software Engineer,,Onsite,Yogyakarta,41,0,10294559.0,53.0,2,39,2.6,High
+EMP00626,Finance,Business Analyst,Bachelor,Remote,Semarang,30,30,29468386.0,,9,8,2.4,Medium
+EMP00627,Operations,Data Analyst,Master,Remote,Yogyakarta,30,27,5773356.0,53.0,12,7,4.4,High
+EMP00628,HR,Customer Success,High School,Remote,Surabaya,39,22,10055055.0,1.0,10,5,4.6,Low
+EMP00629,Marketing,Business Analyst,Master,Onsite,Medan,31,4,5633455.0,47.0,16,6,4.8,Low
+EMP00630,Sales,Product Manager,High School,Onsite,Semarang,30,22,5512362.0,56.0,3,21,2.2,Medium
+EMP00631,Sales,HR Officer,Diploma,Remote,Jakarta,27,7,9788590.0,,18,30,,High
+EMP00632,Marketing,Customer Success,Master,Remote,Semarang,28,27,8143925.0,26.0,0,4,2.4,High
+EMP00633,it,Product Manager,High School,Onsite,Jakarta,48,5,6729491.0,24.0,14,30,3.5,Medium
+EMP00634,Sales,HR Officer,Master,Remote,Semarang,25,16,150000000.0,1.0,6,6,1.5,Medium
+EMP00635,IT,Data Engineer,Master,Onsite,Yogyakarta,45,18,26444357.0,16.0,7,13,,Medium
+EMP00636,Finance,Finance Analyst,High School,Hybrid,Medan,40,16,28404874.0,71.0,13,34,4.4,High
+EMP00637,Operations,HR Officer,Bachelor,Remote,Surabaya,37,17,26295457.0,69.0,4,30,1.4,High
+EMP00638,Operations,HR Officer,Master,Onsite,Semarang,25,33,14964083.0,77.0,13,9,1.7,Medium
+EMP00639,Marketing,Customer Success,Master,Onsite, jakarta ,30,10,14580034.0,45.0,11,13,1.2,Low
+EMP00640,IT,Finance Analyst,Bachelor,Hybrid,Surabaya,57,4,,62.0,14,31,4.1,High
+EMP00641,HR,Product Manager,Master,Remote,Jakarta,36,31,20164614.0,40.0,7,3,2.5,Medium
+EMP00642,HR,Product Manager,,Hybrid,Bandung,45,7,18046748.0,75.0,19,35,3.6,Medium
+EMP00643,Finance,Software Engineer,,Remote,Yogyakarta,42,22,27485562.0,18.0,4,25,,Low
+EMP00644,Marketing,Data Analyst,Diploma,Remote,Yogyakarta,21,8,23763934.0,65.0,14,15,3.1,Medium
+EMP00645,Finance,Software Engineer,High School,Remote,Semarang,51,27,15412279.0,3.0,16,23,4.0,Low
+EMP00646,IT,Business Analyst,,Remote,Yogyakarta,22,17,23644418.0,47.0,16,2,1.5,Medium
+EMP00647,Finance,HR Officer,Master,Hybrid,Yogyakarta,56,20,19381220.0,70.0,3,1,4.6,High
+EMP00648,Operations,Data Engineer,High School,Hybrid,Semarang,21,21,16031214.0,500.0,12,19,1.7,High
+EMP00649,Sales,Marketing Specialist,Diploma,Hybrid,Yogyakarta,40,29,23769489.0,0.0,9,32,3.1,High
+EMP00650,Finance,Sales Executive,Bachelor,Remote,Yogyakarta,46,10,25822811.0,2.0,16,8,2.4,Low
+EMP00651,Operations,Product Manager,Master,Onsite,Jakarta,37,33,10593006.0,30.0,2,8,3.6,Medium
+EMP00652,Finance,Finance Analyst,,Hybrid,Jakarta,46,17,24717359.0,15.0,11,8,1.2,Low
+EMP00653,HR,Product Manager,,Hybrid,Semarang,50,25,21200366.0,49.0,8,8,2.7,High
+EMP00654,HR,Product Manager,Master,Remote,Surabaya,22,29,19380799.0,41.0,15,25,4.9,Low
+EMP00655,Operations,Sales Executive,Diploma,Onsite,Semarang,32,22,8752447.0,32.0,14,38,,Low
+EMP00656,Sales,Sales Executive,High School,Remote,Bandung,38,24,17696544.0,49.0,7,10,2.2,Low
+EMP00657,IT,Software Engineer,Bachelor,Remote,Medan,30,2,19312633.0,45.0,7,34,4.5,Low
+EMP00658,Marketing,Marketing Specialist,High School,Onsite,Yogyakarta,24,34,15335471.0,10.0,2,5,1.3,Medium
+EMP00659,Operations,Marketing Specialist,High School,Remote,Bandung,31,19,18671493.0,60.0,12,0,3.9,Medium
+EMP00660,HR,Customer Success,Bachelor,Remote,Medan,40,30,22503163.0,69.0,2,24,3.2,Low
+EMP00661,Operations,Data Analyst,Master,Remote,Surabaya,46,5,17143037.0,31.0,19,15,5.0,Medium
+EMP00662,Operations,Data Engineer,High School,Onsite,Jakarta,22,9,23001098.0,10.0,4,7,1.7,Low
+EMP00663,Operations,Marketing Specialist,Master,Remote,Surabaya,25,18,18431292.0,77.0,15,6,1.4,High
+EMP00664,Sales,Business Analyst,Bachelor,Onsite,Bandung,42,15,8813599.0,31.0,5,31,4.2,Low
+EMP00665,Operations,Data Analyst,Diploma,Remote,Surabaya,57,31,14618810.0,55.0,5,36,5.0,Low
+EMP00666,IT,Data Engineer,Diploma,Remote,Surabaya,46,27,20286908.0,31.0,9,4,2.9,Low
+EMP00667,HR,Business Analyst,Bachelor,Onsite,Medan,33,15,8296252.0,,13,39,4.8,High
+EMP00668,Finance,Product Manager,Master,Onsite,Bandung,44,25,5939600.0,23.0,11,10,4.6,Low
+EMP00669,HR,Marketing Specialist,Master,Remote,Bandung,45,3,10829244.0,71.0,11,24,3.8,Medium
+EMP00670,Marketing,Customer Success,High School,Hybrid,Yogyakarta,30,21,27037315.0,28.0,13,37,4.9,Low
+EMP00671,Operations,Marketing Specialist,Diploma,Onsite,Jakarta,56,25,28078962.0,21.0,11,5,1.7,Medium
+EMP00672,HR,Software Engineer,Diploma,Hybrid,Yogyakarta,34,21,27121166.0,48.0,2,2,1.2,High
+EMP00673,Sales,Software Engineer,Master,Hybrid,Yogyakarta,50,15,9208061.0,34.0,10,1,4.8,High
+EMP00674,Sales,Business Analyst,Diploma,Onsite,Surabaya,22,9,14103099.0,12.0,1,15,3.5,Low
+EMP00675,IT,Product Manager,High School,Onsite,Yogyakarta,40,30,11547024.0,77.0,11,38,,Medium
+EMP00676,Sales,Marketing Specialist,Master,Remote,Yogyakarta,40,10,15036893.0,30.0,4,24,2.2,High
+EMP00677,Sales,Finance Analyst,High School,Hybrid,Yogyakarta,43,28,25958613.0,18.0,7,220,3.9,Medium
+EMP00678,Operations,Data Engineer,High School,Hybrid,Surabaya,35,26,25190059.0,47.0,0,1,4.8,High
+EMP00679,Marketing,Customer Success,Diploma,Onsite,Semarang,36,34,17561626.0,74.0,18,16,2.2,Low
+EMP00680,Marketing,Product Manager,Bachelor,Onsite,Semarang,31,18,16767735.0,49.0,11,32,2.9,Low
+EMP00681,Sales,Product Manager,Master,Remote,Semarang,37,21,18785581.0,75.0,15,31,3.5,High
+EMP00682,Marketing,Product Manager,High School,Remote,Semarang,25,7,21096126.0,58.0,0,11,4.9,Medium
+EMP00683,Finance,Product Manager,High School,Remote,Bandung,21,14,20850389.0,26.0,17,39,3.4,Low
+EMP00684,HR,Customer Success,Diploma,Onsite,Jakarta,44,6,18681535.0,46.0,10,34,1.3,Low
+EMP00685,it,Sales Executive,Master,Remote,Medan,39,26,11173808.0,74.0,11,25,2.2,High
+EMP00686,Finance,Data Analyst,Bachelor,Remote,Surabaya,40,12,27211997.0,79.0,11,4,4.0,Medium
+EMP00687,Operations,Customer Success,High School,Onsite,Yogyakarta,55,15,29442976.0,57.0,19,9,4.5,Low
+EMP00688,Sales,Product Manager,Master,Remote,Yogyakarta,35,25,,50.0,4,7,4.3,Medium
+EMP00689,HR,Product Manager,Master,Hybrid,Yogyakarta,41,27,15860406.0,1.0,9,5,,Medium
+EMP00690,Operations,Software Engineer,Master,Hybrid,Semarang,27,17,8217254.0,,18,30,1.6,Medium
+EMP00691,Marketing,Sales Executive,Diploma,Hybrid,Bandung,37,13,21917743.0,3.0,18,18,1.9,Low
+EMP00692,Sales,Marketing Specialist,Master,Onsite,Semarang,39,14,24697744.0,,13,36,3.0,High
+EMP00693,Marketing,Sales Executive,Diploma,Hybrid,Medan,38,16,19184645.0,52.0,4,39,1.8,Low
+EMP00694,Marketing,Data Engineer,Master,Remote,Medan,120,26,14074400.0,79.0,9,14,4.3,High
+EMP00695,Marketing,Software Engineer,Bachelor,Hybrid,Jakarta,47,22,25628438.0,72.0,17,17,1.7,Medium
+EMP00696,HR,HR Officer,Diploma,Onsite,Surabaya,26,19,25190506.0,7.0,9,5,1.7,High
+EMP00697,Operations,Marketing Specialist,Bachelor,Hybrid,Yogyakarta,31,25,14033927.0,,8,22,4.5,Medium
+EMP00698,Marketing,Business Analyst,High School,Onsite,Medan,34,23,7101953.0,,15,12,4.6,Low
+EMP00699,IT,Customer Success,High School,Onsite,Jakarta,53,6,7490922.0,14.0,10,30,4.1,High
+EMP00700,IT,Sales Executive,Master,Onsite,Jakarta,23,25,23126045.0,34.0,0,23,2.2,High
+EMP00701,IT,Marketing Specialist,Bachelor,Onsite,Yogyakarta,28,8,8813471.0,38.0,16,14,2.7,High
+EMP00702,Sales,Software Engineer,High School,Onsite,Medan,36,3,9476324.0,30.0,4,6,1.4,Low
+EMP00703,IT,Finance Analyst,Master,Hybrid,Surabaya,39,12,21374258.0,5.0,1,25,2.4,High
+EMP00704,IT,Product Manager,Bachelor,Remote,Surabaya,30,25,12839884.0,13.0,10,17,3.6,Medium
+EMP00705,HR,HR Officer,Diploma,Hybrid,Medan,57,6,14797697.0,24.0,6,23,2.9,Medium
+EMP00706,Operations,Data Engineer,High School,Remote,Semarang,37,23,21804758.0,21.0,19,8,3.7,Medium
+EMP00707,HR,Sales Executive,Master,Onsite,Bandung,42,9,28438895.0,61.0,17,4,1.8,High
+EMP00708,Operations,Data Analyst,Bachelor,Onsite,Semarang,41,10,13197095.0,2.0,17,38,2.9,Medium
+EMP00709,IT,Finance Analyst,Master,Onsite,Semarang,43,8,25267000.0,3.0,14,8,4.0,Low
+EMP00710,Sales,Customer Success,Bachelor,Hybrid,Jakarta,34,26,25273206.0,1.0,7,5,2.5,Low
+EMP00711,HR,Customer Success,Master,Onsite,Yogyakarta,33,19,,43.0,10,18,4.1,High
+EMP00712,Finance,Software Engineer,Bachelor,Remote,Semarang,27,22,28000933.0,20.0,17,23,4.1,Medium
+EMP00713,Operations,HR Officer,,Remote,Semarang,53,14,22812940.0,41.0,1,15,1.7,Medium
+EMP00714,Sales,Data Analyst,High School,Remote,Medan,37,7,7915681.0,,17,19,1.9,Low
+EMP00715,HR,Software Engineer,Diploma,Hybrid,Yogyakarta,24,17,20405614.0,65.0,17,16,4.1,Low
+EMP00716,IT,Business Analyst,Diploma,Hybrid,Semarang,47,29,17931595.0,52.0,8,12,1.3,Medium
+EMP00717,Finance,HR Officer,Bachelor,Hybrid,Yogyakarta,26,21,20441216.0,,16,10,3.6,Low
+EMP00718,Sales,Finance Analyst,Bachelor,Hybrid,Medan,21,8,16994664.0,49.0,12,9,3.7,High
+EMP00719,HR,Customer Success,Master,Onsite,Bandung,28,23,25363835.0,32.0,6,23,3.1,High
+EMP00720,Marketing,Marketing Specialist,High School,Remote,Semarang,28,30,23173942.0,58.0,11,11,4.2,Low
+EMP00721,Finance,Product Manager,,Onsite,Semarang,42,31,17791836.0,76.0,6,10,3.5,High
+EMP00722,IT,Data Analyst,Diploma,Onsite,Semarang,57,8,16357743.0,48.0,14,5,,Medium
+EMP00723,Marketing,Sales Executive,Bachelor,Hybrid,Medan,54,23,14570938.0,28.0,14,33,3.0,Low
+EMP00724,Operations,Product Manager,High School,Onsite,Jakarta,37,31,25416011.0,45.0,15,15,2.4,Low
+EMP00725,Finance,Business Analyst,High School,Hybrid,Yogyakarta,50,34,15712380.0,,0,34,3.1,Medium
+EMP00726,Operations,Sales Executive,Diploma,Remote,Jakarta,43,10,19185333.0,1.0,9,28,4.8,Low
+EMP00727,IT,Product Manager,Diploma,Hybrid,Yogyakarta,21,4,22302136.0,71.0,11,1,4.4,Low
+EMP00728,HR,HR Officer,High School,Hybrid,Surabaya,26,22,23142728.0,0.0,2,26,2.6,Low
+EMP00729,Finance,Business Analyst,Bachelor,Remote,Bandung,48,13,14030192.0,22.0,1,6,1.4,Low
+EMP00730,Finance,Finance Analyst,Master,Onsite,Jakarta,53,27,28429523.0,36.0,1,30,2.9,Low
+EMP00731,Finance,HR Officer,High School,Hybrid,Medan,24,4,29266546.0,,16,18,4.9,Low
+EMP00732,HR,Product Manager,Bachelor,Hybrid,Semarang,33,8,27236713.0,16.0,2,11,4.4,Medium
+EMP00733,Sales,Marketing Specialist,Master,Hybrid,Bandung,40,21,10097513.0,78.0,7,6,2.6,Medium
+EMP00734,Sales,Product Manager,High School,Remote,Surabaya,36,9,27372199.0,64.0,2,13,3.2,Low
+EMP00735,Operations,Customer Success,Diploma,Remote,Surabaya,36,10,24261717.0,25.0,7,7,1.3,High
+EMP00736,Marketing,Data Engineer,Bachelor,Hybrid,Bandung,59,1,23502482.0,36.0,15,15,2.7,Medium
+EMP00737,it,Data Engineer,Diploma,Onsite,Surabaya,21,27,,32.0,5,21,3.7,Low
+EMP00738,HR,Finance Analyst,Bachelor,Onsite,Surabaya,41,25,18022698.0,52.0,9,17,2.6,Low
+EMP00739,Marketing,Data Engineer,,Remote,Surabaya,55,19,19408480.0,69.0,1,20,2.3,Low
+EMP00740,Operations,Data Analyst,High School,Hybrid,Jakarta,39,34,23981774.0,47.0,2,15,2.0,Low
+EMP00741,Sales,HR Officer,Master,Onsite,Yogyakarta,31,11,29222994.0,51.0,15,11,4.5,Medium
+EMP00742,Finance,Sales Executive,High School,Onsite,Jakarta,36,5,15759139.0,58.0,2,16,2.5,High
+EMP00743,Operations,Business Analyst,High School,Hybrid,Yogyakarta,58,11,25315950.0,67.0,17,17,1.4,Medium
+EMP00744,Marketing,Finance Analyst,High School,Onsite,Yogyakarta,42,24,17714093.0,32.0,13,33,2.0,Low
+EMP00745,Marketing,Software Engineer,High School,Onsite,Semarang,44,25,13499056.0,50.0,3,31,3.1,Low
+EMP00746,Marketing,Marketing Specialist,Diploma,Remote,Jakarta,38,15,7749007.0,33.0,11,30,1.3,Low
+EMP00747,IT,Software Engineer,Bachelor,Hybrid,Bandung,58,9,25540711.0,,3,21,3.4,High
+EMP00748,Sales,Product Manager,Master,Remote,Jakarta,29,24,16202136.0,8.0,18,34,1.5,Low
+EMP00749,Finance,Data Analyst,Bachelor,Remote,Medan,36,9,7851963.0,69.0,8,0,3.0,Medium
+EMP00750,Sales,Marketing Specialist,Bachelor,Remote,Bandung,23,31,5074106.0,78.0,12,34,2.9,High
+EMP00751,it,Product Manager,Diploma,Remote,Bandung,52,17,,78.0,4,28,2.4,Low
+EMP00752,Finance,Data Analyst,Master,Remote,Surabaya,38,26,26048898.0,17.0,8,6,3.9,High
+EMP00753,Operations,HR Officer,High School,Hybrid,Yogyakarta,36,24,26052163.0,40.0,1,11,1.0,High
+EMP00754,Sales,Marketing Specialist,High School,Remote,Yogyakarta,46,8,26744910.0,62.0,12,9,3.1,Low
+EMP00755,IT,Data Engineer,Bachelor,Hybrid,Surabaya,27,31,7027094.0,500.0,18,18,1.7,Medium
+EMP00756,HR,Data Analyst,Master,Onsite,Bandung,36,24,25624581.0,400.0,14,0,4.4,Low
+EMP00757,IT,Data Analyst,Bachelor,Hybrid,Yogyakarta,51,5,27205277.0,59.0,19,0,3.0,High
+EMP00758,Marketing,Data Engineer,Master,Hybrid,Surabaya,28,12,23863094.0,51.0,14,9,1.3,Medium
+EMP00759,Sales,Data Analyst,Diploma,Hybrid,Semarang,37,11,24734079.0,38.0,2,35,2.3,Medium
+EMP00760,Marketing,Sales Executive,Master,Onsite,Yogyakarta,49,10,,29.0,19,31,,Low
+EMP00761,IT,Product Manager,High School,Onsite,Surabaya,35,25,10275444.0,51.0,13,32,3.8,Medium
+EMP00762,IT,Customer Success,Diploma,Hybrid,Bandung,58,32,13353739.0,7.0,9,27,4.1,High
+EMP00763,IT,Data Analyst,Diploma,Remote,Medan,42,16,26213537.0,62.0,6,220,2.7,Low
+EMP00764,IT,Sales Executive,High School,Hybrid,Bandung,46,19,9834155.0,19.0,15,18,5.0,Medium
+EMP00765,Sales,Business Analyst,High School,Hybrid,Semarang,54,2,7997971.0,77.0,15,17,1.3,Low
+EMP00766,Sales,Sales Executive,High School,Hybrid,Jakarta,52,14,24993551.0,63.0,18,2,4.3,Low
+EMP00767,HR,Business Analyst,High School,Onsite,Semarang,27,9,29314524.0,0.0,18,30,3.0,Low
+EMP00768,Operations,Software Engineer,Bachelor,Remote,Surabaya,35,31,22777552.0,50.0,17,12,4.6,Low
+EMP00769,Finance,Customer Success,Bachelor,Onsite,Bandung,54,0,,78.0,13,5,3.2,High
+EMP00770,Marketing,Product Manager,Diploma,Remote,Bandung,34,1,14169733.0,24.0,13,20,,Low
+EMP00771,Operations,Business Analyst,Master,Onsite,Surabaya,54,12,,57.0,4,26,4.6,Low
+EMP00772,Marketing,Data Analyst,Bachelor,Remote, jakarta ,53,12,13614710.0,36.0,14,36,4.5,Low
+EMP00773,Finance,Sales Executive,Diploma,Onsite,Jakarta,95,15,13874880.0,35.0,8,15,2.8,Medium
+EMP00774,Marketing,Marketing Specialist,Bachelor,Remote,Bandung,52,13,5264789.0,79.0,8,32,1.6,High
+EMP00775,Marketing,Business Analyst,,Hybrid,Medan,45,5,,36.0,6,39,4.2,Low
+EMP00776,HR,Customer Success,Diploma,Hybrid,Medan,25,28,24859136.0,4.0,18,2,4.5,High
+EMP00777,Operations,Software Engineer,Bachelor,Hybrid,Surabaya,27,22,29896919.0,61.0,0,32,3.7,Low
+EMP00778,Finance,Product Manager,Master,Onsite,Jakarta,25,24,16225648.0,43.0,5,11,3.8,Low
+EMP00779,Operations,Sales Executive,Bachelor,Remote,Semarang,38,31,20441242.0,69.0,19,30,4.8,Low
+EMP00780,HR,Sales Executive,Master,Remote,Jakarta,48,8,18301575.0,75.0,13,30,3.4,Low
+EMP00781,Operations,HR Officer,Diploma,Onsite,Yogyakarta,27,7,16369046.0,53.0,12,2,2.7,Medium
+EMP00782,Operations,Product Manager,Master,Onsite,Semarang,31,33,22175851.0,65.0,0,6,4.4,Medium
+EMP00783,Operations,Marketing Specialist,Master,Onsite,Surabaya,47,16,28044186.0,77.0,12,33,2.5,Low
+EMP00784,Operations,Business Analyst,,Remote,Jakarta,46,24,25506480.0,0.0,19,14,4.3,High
+EMP00785,IT,HR Officer,Bachelor,Onsite,Medan,55,12,17777043.0,3.0,11,29,2.5,Medium
+EMP00786,Marketing,Product Manager,Bachelor,Hybrid,Medan,24,18,13075916.0,79.0,19,7,2.4,Medium
+EMP00787,Finance,Business Analyst,Master,Hybrid,Surabaya,48,15,9740774.0,66.0,7,31,4.4,Medium
+EMP00788,Operations,HR Officer,Diploma,Hybrid,Medan,54,19,9501367.0,35.0,2,5,4.0,Medium
+EMP00789,HR,Data Engineer,Master,Hybrid,Jakarta,40,30,21413569.0,69.0,18,38,1.9,High
+EMP00790,IT,Data Analyst,High School,Hybrid,Surabaya,51,25,5296070.0,73.0,11,8,1.9,Medium
+EMP00791,HR,HR Officer,Diploma,Hybrid,Semarang,36,4,16471690.0,45.0,9,32,1.5,High
+EMP00792,Sales,HR Officer,High School,Remote,Semarang,37,20,,66.0,3,39,4.2,Low
+EMP00793,Sales,Product Manager,Master,Onsite,Medan,45,16,29035231.0,22.0,12,21,3.9,Medium
+EMP00794,Marketing,Marketing Specialist,Master,Hybrid,Yogyakarta,29,25,23756370.0,27.0,14,16,3.6,Medium
+EMP00795,Sales,Marketing Specialist,Bachelor,Hybrid,Bandung,24,6,20415373.0,76.0,15,33,,Medium
+EMP00796,Finance,Business Analyst,Diploma,Remote,Medan,28,8,23535888.0,71.0,18,27,1.4,High
+EMP00797,Marketing,Product Manager,Master,Remote,Semarang,42,15,23125682.0,52.0,11,29,3.3,Low
+EMP00798,Finance,Sales Executive,Bachelor,Remote,Semarang,39,25,17771250.0,10.0,16,13,1.6,Medium
+EMP00799,Operations,HR Officer,Diploma,Remote,Bandung,38,16,28502624.0,70.0,18,36,2.8,High
+EMP00800,HR,Data Analyst,Bachelor,Remote,Semarang,53,7,7073468.0,59.0,15,6,4.6,High
+EMP00801,Operations,Data Analyst,Bachelor,Onsite,Semarang,43,13,10788149.0,78.0,2,2,,Low
+EMP00802,Sales,Customer Success,High School,Onsite,Jakarta,42,23,11267453.0,46.0,14,28,3.9,High
+EMP00803,Operations,Business Analyst,Bachelor,Hybrid,Jakarta,48,15,15414027.0,38.0,8,11,1.5,Medium
+EMP00804,HR,HR Officer,High School,Remote,Semarang,26,12,23723466.0,46.0,16,34,2.2,High
+EMP00805,Finance,Marketing Specialist,Diploma,Hybrid,Yogyakarta,57,8,26503835.0,30.0,14,11,3.9,Medium
+EMP00806,Sales,HR Officer,Bachelor,Hybrid,Surabaya,40,20,,19.0,16,15,2.4,Medium
+EMP00807,Operations,Data Engineer,Bachelor,Remote,Jakarta,33,28,18677860.0,67.0,0,24,1.3,Medium
+EMP00808,HR,Marketing Specialist,High School,Hybrid,Yogyakarta,44,15,16091236.0,34.0,12,14,2.9,Low
+EMP00809,Sales,Data Analyst,Diploma,Onsite,Semarang,31,20,16372741.0,15.0,6,33,2.8,Medium
+EMP00810,IT,Data Engineer,High School,Hybrid,Surabaya,54,28,22748064.0,67.0,0,23,1.0,Medium
+EMP00811,it,Data Engineer,High School,Onsite,Medan,25,32,18198197.0,62.0,3,24,4.6,Medium
+EMP00812,Sales,Customer Success,,Onsite,Surabaya,24,24,24920298.0,77.0,17,10,4.5,Low
+EMP00813,HR,Customer Success,Bachelor,Hybrid,Yogyakarta,25,14,15698076.0,,19,2,4.7,Medium
+EMP00814,Sales,Data Engineer,Master,Hybrid,Medan,59,23,16705465.0,12.0,9,30,3.4,Medium
+EMP00815,Finance,Data Engineer,Diploma,Onsite,Jakarta,21,12,20329791.0,20.0,15,20,2.5,Low
+EMP00816,Finance,Software Engineer,Bachelor,Onsite, jakarta ,47,4,13116646.0,70.0,4,6,,High
+EMP00817,Marketing,Software Engineer,Master,Hybrid,Medan,39,23,23810003.0,5.0,7,23,5.0,Medium
+EMP00818,Operations,Sales Executive,Master,Remote,Medan,31,21,11290529.0,32.0,18,22,1.2,Low
+EMP00819,HR,Data Analyst,Diploma,Onsite,Bandung,34,1,19418157.0,71.0,2,28,2.3,Medium
+EMP00820,Finance,Marketing Specialist,Bachelor,Hybrid,Medan,44,5,22878756.0,21.0,8,20,1.8,Medium
+EMP00821,HR,Finance Analyst,Diploma,Onsite,Bandung,51,28,14891249.0,72.0,19,4,2.1,High
+EMP00822,Operations,Product Manager,Bachelor,Onsite,Semarang,43,2,12248741.0,10.0,12,10,3.6,Low
+EMP00823,Operations,Customer Success,Bachelor,Onsite,Semarang,44,22,8501374.0,70.0,1,33,2.6,Low
+EMP00824,Marketing,Customer Success,Diploma,Remote,Semarang,32,12,17623296.0,76.0,3,36,3.4,Low
+EMP00825,Sales,Data Analyst,High School,Remote,Jakarta,24,14,29681929.0,59.0,19,15,2.4,Medium
+EMP00826,Finance,Software Engineer,Bachelor,Remote,Semarang,45,22,11089367.0,46.0,13,10,3.5,High
+EMP00827,HR,HR Officer,Bachelor,Remote,Jakarta,27,15,,52.0,15,18,1.2,Medium
+EMP00828,Operations,Product Manager,,Remote,Semarang,56,11,13371148.0,34.0,8,4,4.8,High
+EMP00829,HR,Data Analyst,Bachelor,Onsite,Medan,24,17,23234229.0,,4,7,4.5,High
+EMP00830,Finance,Product Manager,Bachelor,Remote,Medan,44,24,,64.0,18,26,4.7,Low
+EMP00831,HR,Data Engineer,Diploma,Remote,Surabaya,32,0,7331685.0,11.0,0,30,,High
+EMP00832,IT,HR Officer,High School,Hybrid,Medan,25,10,,39.0,8,12,1.4,Medium
+EMP00833,IT,Business Analyst,Master,Onsite,Surabaya,53,28,16668898.0,,4,4,4.8,Low
+EMP00834,Operations,Sales Executive,Master,Hybrid,Medan,25,15,,11.0,1,24,1.4,High
+EMP00835,IT,Product Manager,Master,Onsite,Medan,46,27,,,3,29,4.9,Medium
+EMP00836,Operations,HR Officer,Master,Hybrid,Bandung,58,31,23532981.0,9.0,1,17,2.2,High
+EMP00837,Finance,Customer Success,Bachelor,Onsite,Yogyakarta,58,1,23837810.0,40.0,9,6,3.1,Low
+EMP00838,Operations,Finance Analyst,Bachelor,Remote,Bandung,36,12,24529126.0,13.0,11,21,3.9,Low
+EMP00839,Sales,Sales Executive,Master,Onsite,Medan,22,10,13887090.0,19.0,10,34,4.8,High
+EMP00840,Finance,Product Manager,High School,Onsite,Semarang,49,27,12040018.0,36.0,6,29,1.4,Low
+EMP00841,HR,Product Manager,Diploma,Hybrid,Jakarta,42,21,12540115.0,15.0,4,18,4.0,High
+EMP00842,Marketing,Business Analyst,Master,Hybrid,Yogyakarta,59,10,29872671.0,36.0,9,3,3.3,Low
+EMP00843,Marketing,HR Officer,Bachelor,Hybrid,Semarang,22,3,27483545.0,22.0,14,16,3.2,Medium
+EMP00844,Operations,Business Analyst,High School,Onsite,Jakarta,38,19,,43.0,2,22,4.3,Low
+EMP00845,Operations,Business Analyst,,Onsite,Semarang,32,15,22228288.0,52.0,15,0,4.6,Medium
+EMP00846,IT,Sales Executive,Diploma,Remote,Jakarta,29,22,12759374.0,54.0,6,17,3.1,High
+EMP00847,IT,Business Analyst,High School,Onsite,Surabaya,42,5,17728795.0,52.0,7,1,3.2,High
+EMP00848,Finance,Sales Executive,Bachelor,Onsite,Medan,22,24,17589449.0,,8,36,2.0,Medium
+EMP00849,Operations,Product Manager,High School,Remote,Surabaya,56,31,25747167.0,21.0,5,34,2.2,Low
+EMP00850,Marketing,Product Manager,High School,Onsite,Bandung,56,12,16426964.0,24.0,13,28,3.2,High
+EMP00851,Finance,Customer Success,Master,Hybrid,Medan,58,19,17465747.0,76.0,4,34,4.8,Low
+EMP00852,HR,Business Analyst,Diploma,Onsite,Surabaya,40,20,8125250.0,65.0,0,5,2.9,High
+EMP00853,HR,Business Analyst,High School,Remote,Jakarta,33,32,5447160.0,1.0,15,25,1.2,Low
+EMP00854,Sales,Sales Executive,High School,Hybrid,Bandung,23,24,20696110.0,75.0,4,14,1.5,Medium
+EMP00855,HR,Data Analyst,Bachelor,Onsite,Surabaya,52,24,9239990.0,58.0,2,37,3.5,Medium
+EMP00856,Finance,Data Engineer,Diploma,Hybrid,Semarang,38,14,,26.0,8,31,3.7,Medium
+EMP00857,IT,Data Analyst,Diploma,Onsite,Yogyakarta,23,17,,45.0,6,1,1.3,Low
+EMP00858,Sales,Customer Success,Master,Onsite,Surabaya,28,0,12079911.0,28.0,14,5,2.0,Medium
+EMP00859,HR,Business Analyst,High School,Onsite,Surabaya,25,33,16170873.0,70.0,17,10,4.0,High
+EMP00860,HR,Data Analyst,Master,Remote,Surabaya,32,6,9265206.0,5.0,18,37,2.8,Medium
+EMP00861,Marketing,Product Manager,High School,Hybrid,Medan,46,31,13837623.0,9.0,16,15,4.5,Low
+EMP00862,HR,Customer Success,Diploma,Remote,Semarang,21,5,29631208.0,3.0,6,5,,High
+EMP00863,Marketing,Customer Success,Diploma,Hybrid, jakarta ,50,8,23634566.0,34.0,0,29,4.3,Medium
+EMP00864,Marketing,Data Engineer,Diploma,Onsite,Yogyakarta,28,11,22718721.0,1.0,4,36,3.3,Low
+EMP00865,IT,Customer Success,,Hybrid,Yogyakarta,22,5,29437697.0,5.0,6,20,1.8,Low
+EMP00866,Sales,Marketing Specialist,Bachelor,Remote,Semarang,46,21,11417568.0,46.0,12,11,2.6,High
+EMP00867,Finance,Customer Success,Diploma,Onsite,Medan,29,12,28526537.0,79.0,3,22,1.8,Medium
+EMP00868,Sales,Marketing Specialist,Master,Remote,Yogyakarta,40,20,19704870.0,49.0,0,11,4.1,Low
+EMP00869,IT,Product Manager,High School,Remote,Bandung,34,19,27516780.0,12.0,19,21,3.2,High
+EMP00870,HR,Customer Success,High School,Hybrid,Semarang,40,32,29356807.0,2.0,3,23,,Low
+EMP00871,HR,Product Manager,Bachelor,Hybrid,Bandung,21,30,6326017.0,40.0,2,15,3.6,Low
+EMP00872,HR,Sales Executive,High School,Remote,Surabaya,32,19,12904761.0,54.0,11,37,1.9,Low
+EMP00873,Operations,Software Engineer,Master,Onsite,Yogyakarta,37,20,19425061.0,28.0,4,20,2.4,Low
+EMP00874,Finance,Customer Success,High School,Onsite,Yogyakarta,27,3,,79.0,16,32,3.8,Low
+EMP00875,Operations,Product Manager,Diploma,Remote,Bandung,39,27,21535073.0,51.0,10,24,2.1,Medium
+EMP00876,Finance,Customer Success,High School,Onsite,Semarang,27,12,20981972.0,55.0,7,5,3.9,Low
+EMP00877,Finance,Product Manager,Diploma,Remote,Jakarta,34,20,22188575.0,69.0,13,39,4.7,Low
+EMP00878,Sales,Marketing Specialist,High School,Hybrid,Medan,24,8,27694196.0,2.0,18,12,4.3,Medium
+EMP00879,Sales,Product Manager,High School,Hybrid,Medan,49,1,15182226.0,22.0,11,6,,Medium
+EMP00880,Finance,Software Engineer,High School,Onsite,Semarang,39,16,15226699.0,73.0,13,35,1.1,Medium
+EMP00881,Finance,Data Engineer,Bachelor,Remote,Medan,45,12,27662189.0,48.0,9,250,3.2,High
+EMP00882,Marketing,Data Engineer,Master,Hybrid,Semarang,23,25,,28.0,19,35,2.1,Medium
+EMP00883,HR,HR Officer,Bachelor,Remote,Medan,49,9,7464825.0,,14,31,3.2,Medium
+EMP00884,Sales,Finance Analyst,Bachelor,Remote,Semarang,34,30,250000000.0,33.0,9,7,1.1,High
+EMP00885,Marketing,Marketing Specialist,Diploma,Hybrid,Yogyakarta,21,26,6647908.0,66.0,18,28,3.2,Low
+EMP00886,Finance,Customer Success,Diploma,Remote,Surabaya,30,2,25460564.0,73.0,9,34,4.9,Medium
+EMP00887,Finance,Data Engineer,Master,Onsite,Bandung,55,27,11699681.0,11.0,14,27,3.1,Low
+EMP00888,IT,Sales Executive,Master,Onsite,Yogyakarta,48,25,27318450.0,41.0,16,29,4.5,High
+EMP00889,Sales,Customer Success,,Remote,Bandung,35,15,8773890.0,44.0,11,20,3.2,Low
+EMP00890,Sales,Customer Success,High School,Hybrid,Bandung,29,26,24702906.0,79.0,16,2,2.0,High
+EMP00891,HR,HR Officer,Master,Onsite,Medan,44,33,20243847.0,78.0,7,3,3.8,High
+EMP00892,IT,Product Manager,Diploma,Remote,Jakarta,34,25,23948719.0,0.0,11,0,3.4,High
+EMP00893,Marketing,Customer Success,High School,Remote,Yogyakarta,55,6,12664758.0,,4,8,1.1,Low
+EMP00894,Operations,Software Engineer,Master,Hybrid,Jakarta,58,20,27171015.0,13.0,1,23,2.8,Low
+EMP00895,Finance,Product Manager,Master,Hybrid,Medan,45,25,29130021.0,0.0,2,31,3.0,Medium
+EMP00896,Operations,Data Engineer,High School,Onsite,Surabaya,46,16,13706048.0,18.0,9,23,,Low
+EMP00897,IT,Product Manager,Diploma,Hybrid,Semarang,49,10,12072275.0,27.0,0,4,3.0,High
+EMP00898,HR,Software Engineer,Master,Onsite,Medan,36,23,18364697.0,29.0,12,10,1.8,Medium
+EMP00899,IT,Sales Executive,Master,Hybrid,Semarang,31,0,16917583.0,68.0,3,2,4.7,Low
+EMP00900,IT,Customer Success,Master,Hybrid,Surabaya,54,27,26772196.0,,10,37,3.5,Medium
+EMP00901,Operations,Product Manager,Master,Remote,Medan,54,2,9278690.0,17.0,5,28,,Medium
+EMP00902,Finance,Data Analyst,Master,Hybrid,Surabaya,30,23,15258133.0,,17,1,4.7,High
+EMP00903,Marketing,Data Engineer,Bachelor,Remote,Jakarta,57,4,14491204.0,,3,26,,Medium
+EMP00904,HR,Data Analyst,Diploma,Onsite,Bandung,53,22,28772427.0,14.0,1,16,1.6,Medium
+EMP00905,Sales,Marketing Specialist,High School,Remote,Surabaya,34,11,29451176.0,79.0,13,2,1.6,Medium
+EMP00906,Finance,Customer Success,Bachelor,Remote,Medan,50,8,14781047.0,,19,16,3.5,High
+EMP00907,Operations,Sales Executive,High School,Hybrid,Medan,50,19,19917507.0,67.0,11,8,2.5,Low
+EMP00908,Sales,Finance Analyst,High School,Onsite,Surabaya,42,6,25594727.0,2.0,11,25,2.4,Medium
+EMP00909,HR,Data Analyst,High School,Onsite,Semarang,42,34,11883751.0,19.0,9,21,1.4,High
+EMP00910,Marketing,Data Engineer,High School,Onsite,Medan,23,13,25426042.0,15.0,19,9,4.0,High
+EMP00911,HR,Marketing Specialist,High School,Hybrid,Surabaya,21,28,14492814.0,55.0,11,39,2.7,High
+EMP00912,Sales,Data Engineer,,Hybrid,Jakarta,46,8,16781572.0,18.0,15,8,2.3,Medium
+EMP00913,Marketing,Business Analyst,Diploma,Onsite, jakarta ,46,34,22018860.0,52.0,18,15,1.2,Medium
+EMP00914,Sales,Product Manager,High School,Remote,Jakarta,53,14,19906184.0,64.0,2,30,1.5,Low
+EMP00915,Operations,Customer Success,Master,Onsite, jakarta ,45,14,15593155.0,60.0,2,12,3.1,Medium
+EMP00916,IT,Product Manager,Master,Onsite,Jakarta,37,26,24033555.0,46.0,2,7,4.5,High
+EMP00917,Marketing,Data Analyst,Master,Hybrid,Yogyakarta,49,28,12429152.0,57.0,8,5,4.9,Low
+EMP00918,Marketing,HR Officer,Diploma,Remote, jakarta ,35,0,20942469.0,65.0,8,25,2.5,Medium
+EMP00919,Operations,Data Analyst,High School,Remote,Bandung,26,30,7708005.0,48.0,8,38,1.9,High
+EMP00920,Finance,Customer Success,High School,Onsite,Jakarta,27,34,12344911.0,18.0,5,19,1.2,Low
+EMP00921,Sales,Marketing Specialist,Diploma,Hybrid,Bandung,48,2,25789829.0,7.0,19,3,3.8,Medium
+EMP00922,IT,Data Engineer,High School,Hybrid,Semarang,35,18,28949914.0,78.0,5,9,1.9,Medium
+EMP00923,IT,Business Analyst,Diploma,Remote,Jakarta,48,18,27663554.0,38.0,13,1,4.8,Low
+EMP00924,Operations,Data Analyst,High School,Hybrid,Surabaya,56,5,29935193.0,65.0,14,0,3.0,High
+EMP00925,HR,Sales Executive,,Onsite,Bandung,23,0,7244960.0,42.0,15,15,2.8,High
+EMP00926,IT,HR Officer,Bachelor,Onsite,Semarang,53,29,11269049.0,19.0,19,2,1.6,Medium
+EMP00927,HR,Marketing Specialist,Diploma,Hybrid,Surabaya,56,29,6953655.0,45.0,10,14,3.6,High
+EMP00928,Marketing,Sales Executive,,Remote,Medan,56,6,24418041.0,7.0,2,14,3.3,High
+EMP00929,Marketing,Customer Success,Diploma,Onsite,Surabaya,49,21,25436016.0,23.0,2,7,1.0,High
+EMP00930,Finance,Sales Executive,Bachelor,Hybrid,Jakarta,50,26,28123748.0,4.0,9,20,,High
+EMP00931,HR,Finance Analyst,Diploma,Remote,Yogyakarta,52,16,15629195.0,,1,8,,Medium
+EMP00932,Finance,Finance Analyst,,Remote,Medan,21,23,13170786.0,7.0,12,3,2.8,Low
+EMP00933,HR,HR Officer,Bachelor,Onsite, jakarta ,59,21,18073108.0,47.0,9,28,4.2,High
+EMP00934,Marketing,Customer Success,Bachelor,Hybrid,Surabaya,36,11,15033518.0,14.0,19,15,2.9,Medium
+EMP00935,HR,Business Analyst,Master,Onsite,Jakarta,21,0,,33.0,17,27,3.8,High
+EMP00936,IT,Customer Success,Diploma,Remote,Yogyakarta,22,3,22909011.0,32.0,14,0,3.7,Low
+EMP00937,Marketing,Data Analyst,High School,Hybrid,Jakarta,45,17,12866906.0,17.0,9,39,1.3,Low
+EMP00938,Operations,Finance Analyst,Diploma,Remote,Yogyakarta,22,33,13211523.0,20.0,3,14,3.7,Medium
+EMP00939,Sales,Product Manager,High School,Onsite,Jakarta,22,20,14499759.0,52.0,6,35,3.1,Low
+EMP00940,Marketing,Product Manager,High School,Hybrid,Medan,56,13,9217406.0,18.0,3,1,4.2,High
+EMP00941,Sales,HR Officer,Master,Onsite,Surabaya,27,18,,42.0,15,30,2.8,Low
+EMP00942,Operations,Product Manager,High School,Hybrid,Jakarta,42,6,,20.0,8,9,4.3,Medium
+EMP00943,Operations,Business Analyst,High School,Hybrid,Surabaya,28,30,17667507.0,49.0,6,5,3.6,Medium
+EMP00944,Operations,Business Analyst,Bachelor,Remote,Yogyakarta,45,1,27872879.0,49.0,5,1,1.3,High
+EMP00945,HR,Business Analyst,Diploma,Remote,Medan,33,5,18947497.0,,4,15,4.8,High
+EMP00946,Marketing,Marketing Specialist,Bachelor,Onsite,Jakarta,29,18,21511116.0,68.0,16,2,3.6,Low
+EMP00947,it,Finance Analyst,Bachelor,Hybrid,Jakarta,21,1,6730324.0,20.0,8,13,2.6,High
+EMP00948,Marketing,Data Engineer,Bachelor,Onsite,Yogyakarta,39,33,19052580.0,53.0,6,18,2.7,Medium
+EMP00949,Marketing,Sales Executive,Diploma,Onsite,Jakarta,39,13,5686284.0,12.0,1,34,2.6,Medium
+EMP00950,Operations,Finance Analyst,Bachelor,Remote,Medan,42,19,18537270.0,54.0,10,33,4.2,Low
+EMP00951,Finance,Sales Executive,,Hybrid,Jakarta,57,9,18935626.0,,5,34,2.7,High
+EMP00952,IT,Data Analyst,High School,Hybrid,Jakarta,53,7,15145820.0,23.0,15,15,4.6,High
+EMP00953,Finance,HR Officer,Bachelor,Onsite,Bandung,31,13,11984287.0,37.0,0,8,5.0,Low
+EMP00954,Sales,Software Engineer,High School,Hybrid,Bandung,44,30,12438064.0,44.0,8,4,4.8,Medium
+EMP00955,Sales,Sales Executive,Bachelor,Remote,Yogyakarta,36,13,13829747.0,4.0,4,15,1.2,Low
+EMP00956,IT,Product Manager,High School,Onsite,Yogyakarta,40,1,18372428.0,34.0,4,3,3.7,Medium
+EMP00957,Sales,Business Analyst,Diploma,Remote,Surabaya,30,0,20915677.0,59.0,11,2,3.5,Low
+EMP00958,HR,Finance Analyst,High School,Hybrid,Jakarta,44,26,29237182.0,,14,0,3.7,Low
+EMP00959,Sales,Business Analyst,Diploma,Hybrid,Yogyakarta,34,28,20591995.0,56.0,10,36,4.0,High
+EMP00960,Operations,Finance Analyst,Master,Remote,Surabaya,27,11,20603317.0,,8,16,2.6,High
+EMP00961,IT,Customer Success,Diploma,Onsite,Jakarta,21,12,15774892.0,6.0,2,18,1.2,High
+EMP00962,HR,HR Officer,,Hybrid,Semarang,43,26,28881155.0,62.0,7,36,1.6,Low
+EMP00963,Finance,Product Manager,Diploma,Hybrid,Medan,40,17,,38.0,14,11,1.2,Medium
+EMP00964,Marketing,Sales Executive,Diploma,Remote,Bandung,32,25,5314418.0,11.0,10,24,4.3,Medium
+EMP00965,Finance,Business Analyst,Diploma,Remote,Bandung,37,30,29829588.0,17.0,7,28,3.2,Low
+EMP00966,IT,Customer Success,Diploma,Onsite,Bandung,56,21,14649115.0,22.0,9,7,4.4,Low
+EMP00967,Operations,Customer Success,High School,Remote,Medan,54,12,16363990.0,18.0,11,23,2.7,Medium
+EMP00968,HR,HR Officer,High School,Onsite,Bandung,53,27,,15.0,7,34,4.5,High
+EMP00969,Marketing,Marketing Specialist,,Remote,Bandung,44,5,24551179.0,47.0,15,7,1.6,Low
+EMP00970,Sales,Business Analyst,Diploma,Hybrid,Yogyakarta,38,1,13104757.0,18.0,1,27,2.3,Low
+EMP00971,Operations,Software Engineer,Master,Onsite,Jakarta,57,7,,2.0,17,4,2.1,Low
+EMP00972,Operations,Marketing Specialist,Diploma,Hybrid,Bandung,59,18,12693810.0,9.0,9,31,1.6,High
+EMP00973,IT,Finance Analyst,Master,Onsite,Medan,25,11,23176339.0,2.0,15,19,2.4,High
+EMP00974,Marketing,Customer Success,Diploma,Hybrid,Medan,54,1,15054772.0,12.0,19,25,4.9,High
+EMP00975,Marketing,Product Manager,,Onsite,Jakarta,56,14,10510440.0,77.0,1,38,1.6,Medium
+EMP00976,Finance,Data Analyst,Diploma,Hybrid,Jakarta,51,4,22041525.0,28.0,15,11,2.4,Low
+EMP00977,IT,Data Engineer,Master,Remote,Jakarta,35,13,,5.0,4,3,3.9,Low
+EMP00978,Marketing,Software Engineer,Master,Remote,Medan,22,13,21636059.0,8.0,2,17,1.1,Medium
+EMP00979,Sales,Business Analyst,Bachelor,Onsite,Medan,27,30,27500449.0,52.0,13,25,4.4,Low
+EMP00980,Marketing,Software Engineer,High School,Onsite,Medan,42,19,13631065.0,57.0,11,2,1.6,Medium
+EMP00981,Operations,Data Engineer,Bachelor,Hybrid,Jakarta,30,34,28680780.0,52.0,7,4,2.2,Medium
+EMP00982,IT,Customer Success,Bachelor,Hybrid,Medan,42,33,26669252.0,24.0,12,9,2.6,Low
+EMP00983,Marketing,Data Analyst,Master,Onsite,Bandung,52,3,,29.0,18,30,4.8,High
+EMP00984,Operations,Data Analyst,Bachelor,Hybrid,Jakarta,55,33,15731170.0,38.0,9,29,4.9,Low
+EMP00985,Operations,HR Officer,Bachelor,Remote,Jakarta,52,23,16625113.0,31.0,12,20,2.2,Low
+EMP00986,HR,Customer Success,Diploma,Remote,Jakarta,59,2,12998301.0,59.0,18,38,2.9,Medium
+EMP00987,Sales,Sales Executive,Bachelor,Hybrid,Yogyakarta,45,10,24951763.0,71.0,10,1,1.8,High
+EMP00988,Operations,HR Officer,Bachelor,Remote,Yogyakarta,50,32,18048417.0,56.0,5,20,1.5,Low
+EMP00989,Finance,Customer Success,,Remote,Surabaya,46,25,27904329.0,28.0,13,30,4.7,Medium
+EMP00990,Operations,Marketing Specialist,High School,Remote,Surabaya,49,24,10437435.0,25.0,10,2,3.0,Medium
+EMP00991,Marketing,Software Engineer,Master,Remote,Surabaya,27,26,18380515.0,6.0,7,22,4.6,Low
+EMP00992,Marketing,HR Officer,Master,Onsite,Bandung,42,29,25331768.0,74.0,8,31,2.4,High
+EMP00993,IT,Marketing Specialist,Master,Onsite,Semarang,31,17,18751376.0,75.0,3,27,,High
+EMP00994,Operations,Marketing Specialist,High School,Hybrid,Medan,51,34,19764909.0,69.0,17,33,4.2,High
+EMP00995,Marketing,Data Engineer,High School,Onsite,Bandung,46,14,20798119.0,4.0,4,32,1.9,Low
+EMP00996,Marketing,Product Manager,Master,Hybrid,Surabaya,37,30,7742964.0,32.0,15,24,1.4,High
+EMP00997,IT,HR Officer,Bachelor,Hybrid,Yogyakarta,49,8,23284436.0,44.0,0,28,2.2,Medium
+EMP00998,Sales,Data Analyst,High School,Onsite,Surabaya,22,18,17951594.0,79.0,4,2,4.4,High
+EMP00999,IT,HR Officer,,Remote,Surabaya,46,31,7327567.0,18.0,13,34,,Medium
+EMP01000,HR,Marketing Specialist,Master,Onsite,Surabaya,50,6,23093061.0,18.0,10,19,4.7,Medium
+EMP01001,IT,Product Manager,Master,Onsite,Medan,37,10,19273660.0,,3,25,3.0,High
+EMP01002,HR,Product Manager,Bachelor,Hybrid,Bandung,33,24,25385215.0,16.0,8,20,2.0,High
+EMP01003,Marketing,Product Manager,Bachelor,Onsite,Yogyakarta,41,2,,41.0,0,35,3.7,Low
+EMP01004,Sales,Customer Success,Master,Remote,Bandung,46,0,,40.0,5,14,4.8,Low
+EMP01005,IT,Sales Executive,Master,Onsite,Medan,40,13,22302971.0,16.0,5,36,4.1,Low
+EMP01006,IT,Data Engineer,Bachelor,Hybrid,Semarang,40,7,6174269.0,9.0,7,2,2.3,Low
+EMP01007,Sales,Finance Analyst,,Hybrid,Medan,33,30,9227938.0,25.0,10,16,,Low
+EMP01008,Operations,Data Engineer,Master,Hybrid,Medan,50,34,16603549.0,68.0,19,12,3.9,High
+EMP01009,Finance,Software Engineer,High School,Hybrid,Semarang,52,3,11931000.0,76.0,2,4,1.8,Low
+EMP01010,Finance,Product Manager,Diploma,Remote,Jakarta,29,5,22877555.0,,2,0,3.6,Low
+EMP01011,Finance,Data Analyst,High School,Hybrid,Semarang,51,13,8308143.0,26.0,11,9,2.0,Medium
+EMP01012,IT,HR Officer,Bachelor,Remote,Surabaya,46,11,25233125.0,33.0,2,16,4.0,Low
+EMP01013,Finance,Marketing Specialist,Diploma,Hybrid,Jakarta,49,31,27035214.0,32.0,14,14,3.6,Low
+EMP01014,HR,Marketing Specialist,Diploma,Hybrid,Medan,30,24,,70.0,12,2,4.2,Medium
+EMP01015,IT,Marketing Specialist,Diploma,Onsite,Surabaya,51,34,23477037.0,5.0,2,20,4.2,Low
+EMP01016,HR,Marketing Specialist,Master,Remote,Semarang,38,21,25066231.0,71.0,7,38,4.0,Low
+EMP01017,Sales,HR Officer,,Hybrid,Surabaya,57,15,21866652.0,30.0,13,38,,Medium
+EMP01018,Marketing,Software Engineer,Master,Hybrid,Semarang,56,5,21840590.0,20.0,5,1,1.2,High
+EMP01019,Operations,Data Analyst,Diploma,Hybrid,Bandung,50,25,16235771.0,42.0,4,23,3.7,High
+EMP01020,IT,Finance Analyst,Diploma,Onsite,Bandung,21,4,26525940.0,27.0,6,19,1.7,Medium
+EMP01021,IT,Data Engineer,Diploma,Hybrid,Yogyakarta,46,14,28566382.0,17.0,3,39,2.6,Medium
+EMP01022,Operations,Finance Analyst,Master,Hybrid, jakarta ,46,22,,65.0,12,18,3.9,Low
+EMP01023,HR,Data Engineer,High School,Remote,Semarang,38,29,21094991.0,77.0,17,19,2.3,Medium
+EMP01024,Finance,Data Engineer,,Onsite,Semarang,46,5,6374725.0,37.0,5,33,3.2,High
+EMP01025,HR,Product Manager,Diploma,Onsite,Medan,30,9,23520131.0,61.0,8,7,3.8,Medium
+EMP01026,it,Customer Success,Diploma,Remote,Semarang,41,4,27533550.0,16.0,4,8,3.9,Medium
+EMP01027,Marketing,HR Officer,,Remote,Yogyakarta,23,14,6672049.0,17.0,16,13,3.9,Medium
+EMP01028,HR,Marketing Specialist,Bachelor,Onsite,Medan,38,22,8684802.0,60.0,7,34,2.3,Medium
+EMP01029,Marketing,Customer Success,High School,Hybrid,Bandung,55,7,27178106.0,73.0,7,13,,Low
+EMP01030,Operations,Software Engineer,High School,Onsite,Surabaya,41,9,15807464.0,4.0,18,22,2.7,Low
+EMP01031,Sales,Marketing Specialist,Bachelor,Onsite,Bandung,29,8,18454827.0,,6,34,3.8,High
+EMP01032,Operations,Data Engineer,Master,Onsite,Jakarta,30,13,20872750.0,,13,6,3.7,Low
+EMP01033,IT,HR Officer,Diploma,Remote,Yogyakarta,29,11,20194799.0,53.0,9,24,2.2,High
+EMP01034,IT,Business Analyst,Bachelor,Hybrid,Surabaya,32,22,9786255.0,79.0,13,22,3.2,High
+EMP01035,Sales,Finance Analyst,Bachelor,Hybrid,Surabaya,38,24,21769557.0,,8,36,2.9,Low
+EMP01036,Finance,HR Officer,Master,Onsite,Jakarta,45,28,14328527.0,21.0,2,11,1.8,High
+EMP01037,Sales,Product Manager,Diploma,Onsite,Medan,28,17,21585993.0,79.0,1,39,2.1,Low
+EMP01038,HR,Marketing Specialist,Diploma,Remote,Surabaya,42,10,17372157.0,47.0,13,36,3.7,Low
+EMP01039,it,Data Engineer,Diploma,Hybrid,Jakarta,45,20,23393439.0,57.0,12,10,1.7,Low
+EMP01040,Operations,Finance Analyst,Diploma,Onsite,Medan,52,17,,10.0,12,35,1.7,High
+EMP01041,Sales,Product Manager,High School,Remote,Yogyakarta,38,13,7291390.0,29.0,11,11,1.5,High
+EMP01042,IT,Software Engineer,Master,Remote,Surabaya,49,4,13770561.0,7.0,17,20,3.6,High
+EMP01043,Sales,Marketing Specialist,High School,Onsite,Medan,22,0,,,18,12,4.9,Medium
+EMP01044,Marketing,Business Analyst,Bachelor,Onsite,Semarang,48,22,13666030.0,58.0,2,20,,Low
+EMP01045,Finance,HR Officer,High School,Remote,Surabaya,22,33,26046893.0,54.0,2,30,3.1,Low
+EMP01046,IT,Data Analyst,High School,Remote,Bandung,31,33,5793187.0,27.0,14,15,4.6,Medium
+EMP01047,HR,Marketing Specialist,Bachelor,Onsite,Jakarta,28,10,26024760.0,76.0,16,17,2.7,High
+EMP01048,Sales,Business Analyst,Master,Hybrid,Jakarta,55,30,5354373.0,49.0,8,3,3.1,Low
+EMP01049,Marketing,Data Analyst,High School,Hybrid,Medan,28,28,20388842.0,22.0,6,15,2.3,Low
+EMP01050,HR,Finance Analyst,Bachelor,Onsite,Medan,55,1,5576733.0,40.0,19,12,3.7,High
+EMP01051,IT,Product Manager,Bachelor,Hybrid,Bandung,32,21,8027455.0,34.0,19,25,1.6,High
+EMP01052,Operations,Finance Analyst,Master,Remote,Semarang,53,8,29036243.0,,6,25,2.9,Low
+EMP01053,Operations,Sales Executive,Diploma,Onsite,Jakarta,33,2,22060472.0,,4,17,1.6,Medium
+EMP01054,Finance,Business Analyst,Master,Hybrid,Bandung,33,33,,33.0,16,8,4.0,Low
+EMP01055,Operations,HR Officer,Bachelor,Remote,Jakarta,31,12,11680275.0,66.0,5,4,4.0,Low
+EMP01056,Sales,Business Analyst,High School,Remote,Medan,36,29,13982755.0,78.0,6,28,3.7,High
+EMP01057,HR,Marketing Specialist,Diploma,Remote, jakarta ,120,9,19270704.0,50.0,15,33,4.2,Medium
+EMP01058,Sales,HR Officer,Bachelor,Hybrid,Semarang,36,13,10895896.0,4.0,7,11,1.9,Medium
+EMP01059,IT,Data Analyst,Bachelor,Hybrid,Yogyakarta,35,9,15511022.0,21.0,7,13,2.2,Low
+EMP01060,HR,Sales Executive,Bachelor,Remote,Surabaya,29,7,11055634.0,18.0,0,26,1.8,High
+EMP01061,Sales,Sales Executive,High School,Remote,Yogyakarta,21,20,28284152.0,78.0,15,250,3.2,Low
+EMP01062,IT,Data Engineer,High School,Remote,Semarang,44,7,5120008.0,46.0,7,28,3.6,Low
+EMP01063,Operations,Business Analyst,Diploma,Onsite,Bandung,47,10,26839921.0,51.0,16,3,,Low
+EMP01064,Marketing,Marketing Specialist,Diploma,Hybrid,Yogyakarta,30,19,24114411.0,43.0,18,24,,Low
+EMP01065,Finance,Data Engineer,Diploma,Onsite,Yogyakarta,59,21,19828670.0,60.0,9,10,3.7,Medium
+EMP01066,HR,Data Analyst,Bachelor,Remote,Bandung,51,0,22052455.0,55.0,13,4,4.2,Low
+EMP01067,Marketing,Customer Success,,Hybrid,Bandung,43,2,26878747.0,52.0,12,23,3.0,High
+EMP01068,Sales,Sales Executive,Diploma,Hybrid,Surabaya,31,24,,62.0,9,35,,Medium
+EMP01069,Finance,Data Engineer,Master,Remote,Semarang,40,22,21862276.0,60.0,15,24,2.7,Medium
+EMP01070,IT,Customer Success,High School,Onsite,Semarang,45,1,10812344.0,18.0,18,3,3.2,High
+EMP01071,HR,Finance Analyst,,Remote,Semarang,46,34,25250659.0,59.0,12,16,4.1,High
+EMP01072,Sales,Data Engineer,Master,Remote,Semarang,49,24,16298653.0,19.0,11,10,2.7,Medium
+EMP01073,HR,Customer Success,Master,Onsite,Bandung,32,18,15117595.0,77.0,13,35,3.0,High
+EMP01074,Operations,Data Analyst,Bachelor,Onsite,Semarang,31,28,5409650.0,67.0,0,18,2.3,Low
+EMP01075,IT,Data Analyst,Master,Hybrid,Surabaya,51,30,15157279.0,30.0,12,29,1.3,High
+EMP01076,IT,Data Engineer,High School,Remote,Semarang,54,0,10083540.0,7.0,18,37,4.9,Medium
+EMP01077,Finance,Sales Executive,Master,Remote,Surabaya,25,29,10726315.0,,11,39,3.0,High
+EMP01078,it,Product Manager,Bachelor,Onsite,Surabaya,22,24,15262902.0,32.0,12,25,3.2,Medium
+EMP01079,IT,HR Officer,High School,Remote,Semarang,32,28,6005578.0,34.0,4,33,2.9,Low
+EMP01080,Sales,Software Engineer,High School,Hybrid,Surabaya,22,11,27799081.0,73.0,14,38,3.5,High
+EMP01081,Operations,Data Analyst,,Remote,Yogyakarta,33,6,8653988.0,26.0,7,25,1.8,Medium
+EMP01082,HR,Sales Executive,Bachelor,Onsite,Jakarta,58,21,23626636.0,42.0,16,14,,Low
+EMP01083,HR,Sales Executive,High School,Remote,Medan,22,32,22197045.0,23.0,19,28,2.7,Medium
+EMP01084,Finance,Sales Executive,Bachelor,Hybrid,Yogyakarta,26,22,19719316.0,61.0,17,14,4.0,High
+EMP01085,Operations,Data Engineer,Master,Hybrid,Surabaya,47,23,16561536.0,30.0,12,13,2.9,High
+EMP01086,HR,Product Manager,Diploma,Hybrid,Bandung,53,18,18254030.0,48.0,6,21,3.5,Medium
+EMP01087,IT,Software Engineer,Diploma,Hybrid,Semarang,43,20,7806432.0,75.0,18,24,1.9,High
+EMP01088,HR,Customer Success,High School,Remote,Jakarta,37,12,14311910.0,45.0,14,9,1.5,Medium
+EMP01089,Marketing,Data Analyst,Bachelor,Remote,Surabaya,47,14,19960049.0,36.0,17,14,1.9,Medium
+EMP01090,Marketing,Finance Analyst,High School,Hybrid,Medan,21,5,25863322.0,68.0,9,35,3.3,High
+EMP01091,Sales,Customer Success,Bachelor,Remote,Bandung,57,26,18471835.0,,11,2,4.4,High
+EMP01092,Sales,Customer Success,Diploma,Onsite,Medan,36,28,6855978.0,26.0,11,10,4.3,Medium
+EMP01093,Operations,Marketing Specialist,Master,Remote,Semarang,36,6,15913635.0,68.0,10,18,4.2,Low
+EMP01094,HR,Data Engineer,Diploma,Hybrid,Surabaya,25,31,6371406.0,66.0,11,15,1.8,Low
+EMP01095,HR,Sales Executive,Master,Remote,Jakarta,23,15,23948287.0,64.0,13,2,2.4,Medium
+EMP01096,Sales,Product Manager,Master,Onsite,Surabaya,58,12,29898083.0,500.0,7,33,3.9,Low
+EMP01097,Sales,Finance Analyst,Diploma,Hybrid,Jakarta,25,16,6081005.0,51.0,6,7,1.3,High
+EMP01098,Finance,Business Analyst,,Remote,Medan,53,17,23534480.0,43.0,2,6,4.3,Low
+EMP01099,HR,Business Analyst,Diploma,Hybrid,Bandung,32,31,12787890.0,64.0,11,28,1.8,Medium
+EMP01100,Operations,Product Manager,,Remote,Semarang,46,9,29647878.0,20.0,9,3,4.6,Medium
+EMP01101,Finance,HR Officer,Master,Onsite,Semarang,46,15,21810641.0,24.0,11,6,2.5,Medium
+EMP01102,Sales,Software Engineer,High School,Remote,Surabaya,35,2,20994095.0,31.0,2,9,4.6,High
+EMP01103,Sales,HR Officer,Bachelor,Hybrid,Yogyakarta,56,24,18376800.0,,15,7,3.6,Low
+EMP01104,HR,Sales Executive,,Onsite,Surabaya,25,18,26988048.0,53.0,19,10,2.0,High
+EMP01105,Operations,Product Manager,Diploma,Onsite,Semarang,46,3,15369392.0,20.0,14,2,,Medium
+EMP01106,HR,Software Engineer,High School,Onsite,Surabaya,37,12,14604662.0,47.0,11,0,3.3,Low
+EMP01107,Operations,Data Analyst,Diploma,Remote,Jakarta,46,13,20436969.0,27.0,17,31,,High
+EMP01108,Sales,Finance Analyst,Bachelor,Remote,Semarang,32,14,20854123.0,11.0,15,37,2.5,High
+EMP01109,HR,Customer Success,Master,Onsite,Semarang,38,2,23373291.0,35.0,10,17,2.7,Medium
+EMP01110,IT,Sales Executive,Diploma,Onsite,Surabaya,39,31,,6.0,14,21,1.3,High
+EMP01111,Sales,Software Engineer,Diploma,Remote,Yogyakarta,55,23,27346851.0,13.0,12,2,,High
+EMP01112,Operations,Customer Success,Bachelor,Onsite,Medan,55,0,7375545.0,53.0,10,1,4.8,Low
+EMP01113,Sales,Marketing Specialist,High School,Hybrid,Medan,44,29,5821123.0,17.0,8,35,4.3,Medium
+EMP01114,Finance,Product Manager,Master,Hybrid,Jakarta,38,32,7159749.0,68.0,18,7,2.7,Low
+EMP01115,Finance,Data Engineer,Bachelor,Hybrid,Semarang,32,23,,63.0,16,0,1.4,Low
+EMP01116,Marketing,Product Manager,Bachelor,Hybrid,Yogyakarta,21,4,25321453.0,29.0,4,30,2.9,Medium
+EMP01117,Marketing,Customer Success,High School,Hybrid,Bandung,32,34,20474296.0,16.0,17,9,3.2,Low
+EMP01118,HR,HR Officer,Bachelor,Remote,Yogyakarta,27,24,13397589.0,25.0,6,13,4.4,Medium
+EMP01119,Operations,Business Analyst,High School,Hybrid,Medan,25,20,15931043.0,38.0,16,28,4.4,Medium
+EMP01120,IT,HR Officer,Bachelor,Remote,Surabaya,57,29,27813819.0,16.0,6,9,2.2,Low
+EMP01121,Sales,Finance Analyst,Bachelor,Remote,Surabaya,31,25,25082682.0,,0,0,1.4,High
+EMP01122,IT,Data Engineer,High School,Onsite,Bandung,56,11,,44.0,14,12,4.5,Medium
+EMP01123,Marketing,Finance Analyst,,Onsite,Bandung,28,22,18098474.0,69.0,9,30,2.0,High
+EMP01124,Marketing,Customer Success,Diploma,Onsite,Semarang,47,14,8248359.0,59.0,18,19,3.5,Low
+EMP01125,HR,Business Analyst,,Onsite,Medan,56,28,27410781.0,61.0,8,21,,Low
+EMP01126,Sales,Data Analyst,Bachelor,Hybrid,Medan,51,18,13845794.0,2.0,18,30,1.6,High
+EMP01127,Sales,Software Engineer,Bachelor,Remote,Semarang,59,31,25420039.0,27.0,12,25,,Low
+EMP01128,IT,Customer Success,Master,Hybrid,Surabaya,28,8,23480133.0,0.0,19,18,2.8,Low
+EMP01129,IT,HR Officer,Bachelor,Onsite,Surabaya,23,6,7091061.0,40.0,19,30,4.8,High
+EMP01130,Sales,Marketing Specialist,Master,Onsite,Medan,37,9,14473023.0,71.0,0,16,1.9,High
+EMP01131,Sales,Product Manager,Bachelor,Onsite,Medan,52,12,17105144.0,69.0,4,12,4.7,Medium
+EMP01132,Operations,Product Manager,High School,Onsite,Jakarta,32,21,5000706.0,76.0,12,15,3.0,Medium
+EMP01133,IT,Finance Analyst,Bachelor,Onsite,Medan,32,20,19909907.0,69.0,19,10,3.3,Medium
+EMP01134,IT,Software Engineer,Diploma,Onsite,Semarang,32,34,20081384.0,7.0,4,25,2.5,Low
+EMP01135,Sales,Finance Analyst,Master,Remote,Semarang,46,25,8585612.0,3.0,0,32,1.4,Medium
+EMP01136,Finance,Finance Analyst,High School,Onsite,Medan,48,15,28542197.0,76.0,9,20,2.8,High
+EMP01137,Operations,Marketing Specialist,High School,Hybrid,Surabaya,23,22,16853584.0,37.0,6,27,3.4,Low
+EMP01138,Finance,Software Engineer,Bachelor,Remote,Bandung,29,21,27120757.0,,17,13,4.3,Low
+EMP01139,Operations,Customer Success,Master,Onsite,Yogyakarta,50,1,,64.0,16,9,1.6,High
+EMP01140,HR,HR Officer,High School,Onsite,Bandung,51,34,20013106.0,8.0,5,38,1.7,Medium
+EMP01141,IT,Data Engineer,Bachelor,Hybrid,Surabaya,24,2,20217415.0,,1,9,3.9,Low
+EMP01142,HR,Data Analyst,Master,Hybrid,Jakarta,44,3,26444930.0,42.0,2,3,1.2,High
+EMP01143,Operations,Finance Analyst,Master,Remote,Bandung,21,10,23575861.0,18.0,15,34,,High
+EMP01144,HR,Software Engineer,Bachelor,Onsite,Semarang,25,29,21403292.0,62.0,16,33,3.6,High
+EMP01145,IT,Business Analyst,Diploma,Hybrid,Yogyakarta,50,21,7499987.0,16.0,8,11,2.4,Low
+EMP01146,Operations,Marketing Specialist,Bachelor,Remote,Surabaya,56,16,23651470.0,18.0,13,2,1.1,Medium
+EMP01147,HR,Customer Success,Master,Onsite,Medan,22,32,5584588.0,10.0,2,10,3.0,Low
+EMP01148,Marketing,Data Analyst,Diploma,Remote,Yogyakarta,35,22,14154541.0,38.0,18,27,1.3,High
+EMP01149,IT,Customer Success,High School,Hybrid,Yogyakarta,59,27,18318907.0,67.0,12,12,3.4,High
+EMP01150,HR,Customer Success,Bachelor,Remote,Medan,27,9,26483833.0,57.0,1,14,2.4,Medium
+EMP01151,Marketing,HR Officer,High School,Hybrid,Jakarta,25,7,11987395.0,43.0,8,8,2.4,Medium
+EMP01152,Marketing,HR Officer,High School,Onsite,Bandung,40,11,20717682.0,50.0,5,15,4.4,Low
+EMP01153,Sales,Finance Analyst,Bachelor,Hybrid, jakarta ,28,11,11675233.0,0.0,14,12,3.3,Medium
+EMP01154,IT,Software Engineer,Master,Hybrid,Yogyakarta,57,22,,2.0,19,37,4.0,High
+EMP01155,Finance,Business Analyst,Master,Onsite,Semarang,25,28,23604663.0,26.0,15,1,2.9,Low
+EMP01156,IT,Business Analyst,High School,Onsite,Medan,29,7,21599815.0,45.0,10,34,3.9,Low
+EMP01157,HR,Software Engineer,Diploma,Hybrid, jakarta ,37,4,9879016.0,37.0,14,28,1.4,Low
+EMP01158,HR,Customer Success,High School,Hybrid,Surabaya,30,14,6967896.0,43.0,15,38,3.4,High
+EMP01159,Sales,Data Analyst,Bachelor,Hybrid,Medan,26,16,10265044.0,27.0,3,8,4.3,Low
+EMP01160,Marketing,Product Manager,High School,Onsite,Jakarta,56,11,18676298.0,18.0,14,11,,Low
+EMP01161,Operations,Customer Success,,Remote,Bandung,36,26,22541405.0,16.0,8,36,3.1,Medium
+EMP01162,HR,Sales Executive,Master,Hybrid,Yogyakarta,38,19,17523888.0,47.0,14,4,3.6,High
+EMP01163,Finance,Data Analyst,Master,Hybrid,Yogyakarta,54,0,5917863.0,29.0,5,23,3.8,High
+EMP01164,IT,Data Analyst,,Remote,Bandung,23,8,,22.0,3,23,2.7,High
+EMP01165,Sales,Software Engineer,High School,Onsite,Medan,21,28,28533912.0,63.0,14,34,4.8,Medium
+EMP01166,Operations,Sales Executive,Master,Remote,Semarang,41,4,28532786.0,54.0,17,13,4.7,Low
+EMP01167,Finance,Customer Success,Bachelor,Remote,Yogyakarta,38,27,7903283.0,19.0,6,32,2.7,Medium
+EMP01168,Marketing,Data Engineer,High School,Onsite,Bandung,44,31,25477587.0,76.0,6,16,3.2,Low
+EMP01169,HR,Business Analyst,High School,Remote,Medan,24,32,,47.0,10,0,4.8,Low
+EMP01170,HR,Sales Executive,Master,Remote,Medan,49,33,27190518.0,35.0,18,28,3.6,Medium
+EMP01171,Finance,Marketing Specialist,Diploma,Onsite,Yogyakarta,49,18,20229769.0,28.0,13,38,3.7,Low
+EMP01172,Finance,Customer Success,Master,Hybrid,Surabaya,24,8,17217669.0,11.0,18,37,4.5,Medium
+EMP01173,Operations,Business Analyst,Master,Remote,Medan,45,34,26270863.0,64.0,17,13,1.4,Medium
+EMP01174,Operations,Software Engineer,Bachelor,Onsite,Semarang,36,6,21646526.0,76.0,15,10,3.9,Medium
+EMP01175,Sales,Product Manager,Master,Hybrid,Yogyakarta,50,11,29154281.0,54.0,6,14,2.9,High
+EMP01176,HR,Data Analyst,Bachelor,Onsite,Bandung,33,20,22305946.0,57.0,11,13,3.0,Low
+EMP01177,HR,Software Engineer,,Remote,Semarang,38,24,11949893.0,54.0,1,18,3.6,High
+EMP01178,Operations,Business Analyst,,Remote,Jakarta,56,12,26760279.0,54.0,1,4,4.2,High
+EMP01179,IT,Software Engineer,High School,Hybrid,Jakarta,42,18,21493927.0,53.0,1,36,1.7,Low
+EMP01180,HR,Customer Success,Master,Hybrid,Medan,45,23,16511524.0,42.0,17,17,,Low
+EMP01181,Operations,Marketing Specialist,High School,Remote,Semarang,41,2,6428751.0,59.0,13,20,4.2,Low
+EMP01182,Operations,Data Engineer,High School,Onsite,Semarang,47,5,17222149.0,32.0,1,25,1.4,High
+EMP01183,IT,Product Manager,Master,Hybrid,Semarang,30,30,15728990.0,7.0,5,10,4.8,High
+EMP01184,IT,Business Analyst,High School,Hybrid,Medan,53,13,5501901.0,11.0,4,37,,Low
+EMP01185,Marketing,Product Manager,Master,Onsite,Surabaya,52,5,7770721.0,6.0,18,2,1.4,Low
+EMP01186,Marketing,Data Analyst,,Remote,Yogyakarta,22,1,29446718.0,12.0,7,15,3.9,Low
+EMP01187,IT,HR Officer,Bachelor,Remote,Semarang,39,26,29826024.0,63.0,6,7,2.0,Medium
+EMP01188,HR,Sales Executive,Master,Hybrid,Surabaya,41,12,20809290.0,65.0,13,24,3.3,Low
+EMP01189,Operations,Product Manager,,Onsite,Jakarta,26,25,13572308.0,11.0,5,31,3.6,Medium
+EMP01190,IT,Product Manager,Bachelor,Hybrid,Jakarta,50,30,28814028.0,27.0,0,12,2.0,High
+EMP01191,HR,Marketing Specialist,High School,Remote,Medan,27,0,26661464.0,58.0,11,33,2.5,High
+EMP01192,Operations,Business Analyst,Master,Onsite,Medan,55,11,17014932.0,44.0,15,12,4.1,High
+EMP01193,Marketing,Finance Analyst,,Onsite,Bandung,21,1,16532176.0,62.0,7,17,2.2,Medium
+EMP01194,Marketing,Product Manager,High School,Remote,Semarang,44,10,16266432.0,13.0,9,32,3.0,Medium
+EMP01195,Finance,Data Engineer,High School,Hybrid,Medan,28,0,27103343.0,3.0,11,7,1.7,Low
+EMP01196,HR,Marketing Specialist,High School,Hybrid,Semarang,32,10,6938396.0,7.0,11,10,4.0,Medium
+EMP01197,Operations,Data Engineer,High School,Onsite,Surabaya,53,5,6757254.0,20.0,9,13,4.1,Medium
+EMP01198,Operations,HR Officer,High School,Remote,Jakarta,49,24,10820818.0,16.0,2,28,4.9,High
+EMP01199,Operations,HR Officer,High School,Remote,Surabaya,32,18,8127776.0,35.0,10,30,2.3,Low
+EMP01200,HR,Sales Executive,Master,Onsite,Jakarta,24,25,14919575.0,,6,7,1.2,High
+EMP01179,IT,Software Engineer,High School,Hybrid,Jakarta,42,18,21493927.0,53.0,1,36,1.7,Low
+EMP00866,Sales,Marketing Specialist,Bachelor,Remote,Semarang,46,21,11417568.0,46.0,12,11,2.6,High
+EMP00102,Sales,Marketing Specialist,,Hybrid,Bandung,34,25,25671303.0,59.0,12,19,2.0,Low
+EMP00440,HR,Data Analyst,High School,Remote,Jakarta,54,8,,72.0,11,220,,High
+EMP00059,Operations,Business Analyst,Diploma,Onsite,Surabaya,46,6,26678055.0,55.0,15,7,2.1,High
+EMP01121,Sales,Finance Analyst,Bachelor,Remote,Surabaya,31,25,25082682.0,,0,0,1.4,High
+EMP00324,IT,Finance Analyst,Diploma,Hybrid,Yogyakarta,38,20,23812341.0,60.0,4,4,2.9,Medium
+EMP00975,Marketing,Product Manager,,Onsite,Jakarta,56,14,10510440.0,77.0,1,38,1.6,Medium
+EMP00412,Sales,Customer Success,,Remote,Yogyakarta,38,8,7819553.0,38.0,17,33,4.3,Medium
+EMP00856,Finance,Data Engineer,Diploma,Hybrid,Semarang,38,14,,26.0,8,31,3.7,Medium
+EMP00821,HR,Finance Analyst,Diploma,Onsite,Bandung,51,28,14891249.0,72.0,19,4,2.1,High
+EMP00045,Sales,Business Analyst,,Onsite,Yogyakarta,52,27,11678351.0,78.0,15,21,2.1,Medium
+EMP00050,Sales,HR Officer,Bachelor,Hybrid,Semarang,33,2,24307743.0,32.0,0,12,,High
+EMP00850,Marketing,Product Manager,High School,Onsite,Bandung,56,12,16426964.0,24.0,13,28,3.2,High
+EMP00241,IT,Finance Analyst,Diploma,Hybrid,Surabaya,21,26,8109873.0,48.0,11,11,4.4,High
+EMP00171,IT,Sales Executive,Diploma,Remote,Yogyakarta,59,14,,40.0,0,27,4.3,Low
+EMP00524,HR,Product Manager,Bachelor,Hybrid,Medan,59,15,10494279.0,10.0,1,21,3.1,High
+EMP00766,Sales,Sales Executive,High School,Hybrid,Jakarta,52,14,24993551.0,63.0,18,2,4.3,Low
+EMP00839,Sales,Sales Executive,Master,Onsite,Medan,22,10,13887090.0,19.0,10,34,4.8,High
+EMP00424,IT,Sales Executive,High School,Remote,Semarang,32,17,5164181.0,54.0,6,37,4.3,Low
+EMP00381,Marketing,Data Engineer,Master,Remote,Surabaya,46,28,23566421.0,,7,37,4.4,Low
+EMP00610,IT,Data Engineer,Diploma,Remote,Medan,23,23,19125469.0,71.0,17,4,2.9,Low
+EMP00677,Sales,Finance Analyst,High School,Hybrid,Yogyakarta,43,28,25958613.0,18.0,7,37,3.9,Medium
+EMP00345,IT,Software Engineer,Diploma,Hybrid,Bandung,59,29,22294668.0,29.0,1,29,3.6,Medium
+EMP00110,HR,Marketing Specialist,High School,Hybrid,Semarang,48,1,17628513.0,64.0,14,2,2.8,Low
+EMP00278,IT,Finance Analyst,Diploma,Onsite,Bandung,43,29,13463954.0,68.0,17,14,2.6,Low
+EMP00678,Operations,Data Engineer,High School,Hybrid,Surabaya,35,26,25190059.0,47.0,0,1,4.8,High
+EMP00571,Marketing,Product Manager,High School,Onsite,Surabaya,38,3,11776883.0,18.0,12,15,3.3,Low
+EMP00359,Marketing,Marketing Specialist,Master,Hybrid,Semarang,31,11,20225623.0,18.0,7,4,2.0,Medium
+EMP00599,Operations,Sales Executive,Diploma,Hybrid,Yogyakarta,37,17,11407954.0,54.0,11,21,2.1,High
+EMP00391,HR,Software Engineer,Master,Remote,Bandung,39,31,5208819.0,74.0,3,33,3.1,Medium
+EMP00894,Operations,Software Engineer,Master,Hybrid,Jakarta,58,20,27171015.0,13.0,1,23,2.8,Low
+EMP00693,Marketing,Sales Executive,Diploma,Hybrid,Medan,38,16,19184645.0,52.0,4,39,1.8,Low
+EMP00728,HR,HR Officer,High School,Hybrid,Surabaya,26,22,23142728.0,0.0,2,26,2.6,Low
+EMP00363,IT,Data Engineer,,Onsite,Bandung,46,14,11188072.0,73.0,18,22,,High
+EMP00597,Sales,Software Engineer,High School,Onsite,Jakarta,41,20,8732012.0,34.0,13,35,4.1,Low
+EMP00428,Sales,Sales Executive,High School,Remote,Surabaya,39,12,23129655.0,66.0,18,19,4.6,Medium
+EMP00071,HR,Software Engineer,,Remote,Bandung,42,20,150000000.0,55.0,18,35,2.6,Medium
+EMP00322,Sales,Data Analyst,Diploma,Remote,Bandung,33,8,10483817.0,35.0,8,25,2.4,Low
+EMP00653,HR,Product Manager,,Hybrid,Semarang,50,25,21200366.0,49.0,8,8,2.7,High
+EMP01066,HR,Data Analyst,Bachelor,Remote,Bandung,51,0,22052455.0,55.0,13,4,4.2,Low
+EMP00108,Marketing,Marketing Specialist,,Onsite,Yogyakarta,26,18,24564758.0,39.0,12,5,4.7,Low
+EMP01109,HR,Customer Success,Master,Onsite,Semarang,38,2,23373291.0,35.0,10,17,2.7,Medium
+EMP00356,HR,Data Engineer,High School,Hybrid,Surabaya,59,9,13902884.0,64.0,1,0,4.8,Low
+EMP00951,Finance,Sales Executive,,Hybrid,Jakarta,57,9,18935626.0,,5,34,2.7,High
+EMP00343,HR,Software Engineer,High School,Hybrid,Bandung,33,31,10471271.0,23.0,16,17,1.4,Medium
+EMP00355,HR,Product Manager,Master,Remote,Yogyakarta,55,26,12367646.0,63.0,12,19,4.3,Medium
+EMP00024,IT,Finance Analyst,Bachelor,Hybrid,Surabaya,44,23,22668996.0,69.0,16,9,1.2,Low
